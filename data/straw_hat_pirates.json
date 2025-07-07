@@ -1,0 +1,767 @@
+{
+  "Monkey D. Luffy": {
+    "Description": "Monkey D. Luffy, known as Straw Hat Luffy, is the founder and captain of the Straw Hat Pirates. He seeks the treasure of Gol D. Roger to become the Pirate King, believing it represents ultimate freedom, and pursues a deeper, personal dream known only to his crew and closest allies.\nBorn on Dawn Island, Luffy is the son of Monkey D. Dragon, leader of the Revolutionary Army, and grandson of Marine hero Monkey D. Garp, making him part of the mysterious Clan of D. Raised by Curly Dadan, he formed a brotherhood with Ace and Sabo, and was deeply inspired by Shanks, who gave him his signature straw hat and accidentally caused him to eat the Gomu Gomu no Mi, turning his body to rubber.\nLuffy has challenged powerful enemies across the seas—Warlords, Marines, Cipher Pol, World Nobles, and Emperors—earning victories at Enies Lobby, Impel Down, Marineford, and Onigashima, where he defeated Kaidou. Despite his recklessness, he draws allies from across the world and commands the Straw Hat Grand Fleet.\nHis bold actions, heritage, and strength have made him one of the Four Emperors, a central figure of the Worst Generation, and a direct threat to the World Government. With a current bounty of 3,000,000,000, Luffy is also seen as the prophesied return of Joy Boy and the modern embodiment of the Sun God Nika, following the awakening of his Devil Fruit.",
+    "Official English Name": "Monkey D. Luffy",
+    "Debut": "Chapter 1; Episode 1",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Four Emperors; Clan of D.; Dadan Family (former); Baratie (temporary, former); Impel Down (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Pirate Captain; Emperor; Senior Captain of the Grand Fleet; Prisoner (former); Chore Boy (temporary, former); Bandit (former)",
+    "Origin": "East Blue ( Foosha Village )",
+    "Residence": "Foosha Village (former); Mt. Colubo (former); Rusukaina (former)",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "7 (debut)",
+        "context": ""
+      },
+      {
+        "value": "17 (pre-timeskip)",
+        "context": ""
+      },
+      {
+        "value": "19 (after",
+        "context": "timeskip"
+      }
+    ],
+    "Birthday": "May 5th (Children's Day)",
+    "Height": [
+      {
+        "value": "91 cm (3')",
+        "context": "debut, child"
+      },
+      {
+        "value": "172 cm (5'8\")",
+        "context": "pre-timeskip"
+      },
+      {
+        "value": "174 cm (5'9\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "3,000,000,000",
+        "label": "current"
+      },
+      {
+        "value": "1,500,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "500,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "400,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "300,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "100,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "30,000,000",
+        "label": "previous"
+      }
+    ],
+    "Devil Fruit": [
+      {
+        "Japanese Name": "Gomu Gomu no Mi (Hito Hito no Mi, Model: Nika)",
+        "English Name": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
+        "Meaning":"Rubber; Human; Nika",
+        "Type": "Paramecia (Zoan, Mythical)"
+      }
+      ],
+    "Voice Actors": [
+     {
+        "Japanese": "Mayumi Tanaka",
+      "English": "Bella Hudson"
+    }
+],
+  "Appearance":"Luffy is a slim, muscular young man with shaggy black hair, round black eyes, and a distinct scar under his left eye. He’s best known for his yellow straw hat with a red band—given to him by Shanks and originally worn by Gol D. Roger. Before the timeskip, he wore a red vest, blue shorts, and sandals. He also has a large X-shaped scar on his chest, received during the Summit War at Marineford.",
+  "Personality": "Luffy is carefree, optimistic, and fiercely loyal to his friends. He values freedom above all else and is known for his insatiable appetite and love for adventure. Despite his laid-back demeanor, he possesses a strong sense of justice and will go to great lengths to protect those he cares about. Luffy's determination and resilience make him a natural leader, inspiring those around him to follow him into battle.",
+  "Item": "Straw Hat",
+  "Abilities": [
+ {"Gear Second": "Luffy pumps his blood faster, increasing his speed and strength.",
+  "Gear Third": "Luffy inflates his bones to grow larger, enhancing his physical power.",
+  "Gear Fourth": "Luffy coats his body in Haki and inflates it, allowing for powerful attacks and enhanced mobility."}
+  ],
+ 
+  "Main Keywords": [
+    "Lucy",
+    "Luffy-tarou",
+    "Luffy-no-Umi",
+    "Joy Boy",
+    "Four Emperors",
+    "Super Rookies",
+    "Former Impel Down Prisoners",
+    "Clan of D.",
+    "Straw Hat Pirates",
+    "Worst Generation",
+    "Prison Escape Team",
+    "Dadan Family",
+    "Awakened Zoan Devil Fruit Users",
+    "Mythical Zoan Devil Fruit Users",
+    "Awakened Paramecia Devil Fruit Users",
+    "Supreme King Haki Users",
+    "Observation Haki Users",
+    "Armament Haki Users",
+    "Voice of All Things Hearers"
+  ]
+  },
+  "Roronoa Zoro": {
+"Description": "Roronoa Zoro, known as \"Pirate Hunter\" Zoro, is the master swordsman and combatant of the Straw Hat Pirates, serving as Luffy’s right-hand man and a Senior Officer of the Straw Hat Grand Fleet. A former bounty hunter, he was the first to join Luffy's crew during the Romance Dawn Arc.\n\nBorn in East Blue, Zoro is a descendant of the Shimotsuki Family of Wano and the legendary samurai Shimotsuki Ryuma. He created and mastered the Three Sword Style during childhood in Shimotsuki Village. His lifelong goal is to become the world’s greatest swordsman, honoring a promise to his late friend Kuina.\n\nZoro is part of the \"Worst Generation\" and one of the “Monster Trio” alongside Luffy and Sanji. His bounty rose from 60,000,000 to 1,111,000,000 after the Raid on Onigashima, reflecting his growing infamy and strength.",
+    "Official English Name": "Roronoa Zoro (Uncut dub, Early VIZ manga); Roronoa Zolo (Edited dub, VIZ Media, 4Kids)",
+    "Debut": "Chapter 3; Episode 1",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Shimotsuki Family (descended); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Master Swordsman; Pirate; Crew Combatant; Senior Officer; Rōnin (temporary); Bounty Hunter (former)",
+    "Origin": "East Blue",
+    "Residence": "Shimotsuki Village (former); Kuraigana Island (former, temporary)",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "19 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "November 11th",
+    "Height": [
+      {
+        "value": "178 cm (5'10\")",
+        "context": "debut"
+      },
+      {
+        "value": "181 cm (5'11\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "1,111,000,000",
+        "label": "current"
+      },
+      {
+        "value": "320,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "120,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "60,000,000",
+        "label": "previous"
+      }
+    ],
+    "Devil Fruit" : "", 
+      "Voice Actors": [
+     {
+        "Japanese": "Kazuya Nakai",
+      "English": "Marc Diraison"
+    }  
+  ],
+  "Appearance": "Zoro is a tall, muscular young man with green cropped hair and lightly tanned skin. He carries three swords on his right hip, always including the Wado Ichimonji, with the other two changing over time. He wears a green haramaki, a black bandana tied on his left arm (worn on his head during serious fights), and three gold earrings on his left ear.\nHis body bears many battle scars, including a large diagonal scar from his fight with Dracule Mihawk and another over his left eye, origin unknown. Sanji often mocks his hair by calling him (moss-head).",
+  "Personality": "Zoro is serious, stoic, and fiercely loyal to his captain and crew.",
+  "Item": "Three Swords",
+  "Abilities": [{
+    "Three Sword Style": "Zoro's unique fighting style using three swords, one in each hand and one in his mouth.",
+    "Haki Mastery": "Zoro has mastered all three types of Haki: Observation, Armament, and Supreme King Haki.",
+    "Asura Technique": "A powerful technique that creates the illusion of Zoro having multiple heads and arms, enhancing his swordsmanship."
+  }],
+  "Main Keywords": [
+    "Straw Hat Pirates",
+    "Straw Hat Grand Fleet",
+    "Former Bounty Hunters",
+    "Former Rōnin",
+    "Worst Generation",
+    "Monster Trio",
+    "Pirate Hunter",
+    "Master Swordsman",
+    "Three Sword Style Users",
+    "Supreme King Haki Users",
+    "Observation Haki Users",
+    "Armament Haki Users"
+  ]
+  },
+  "Nami": {
+    "Description": "'Cat Burglar' Nami is the navigator of the Straw Hat Pirates and a Senior Officer of the Straw Hat Grand Fleet. She is the third member to join, initially infiltrating the crew during the Orange Town Arc while secretly working to free her village from the Arlong Pirates. After Arlong's defeat, she officially became a Straw Hat. Nami dreams of mapping the entire world. Her bounty rose from 16,000,000 after Enies Lobby to 66,000,000 post-Dressrosa, and reached 366,000,000 following the Raid on Onigashima.",
+    "Official English Name": "Nami",
+    "Debut": "Chapter 8; Episode 1 Chapter 1 (cover)",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Arlong Pirates (defected); Ganzack Pirates (movie, former); Golden Lion Pirates (movie, former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Navigator; Senior Officer; Thief; Pirate Officer (Arlong Pirates, former); Kunoichi (temporary)",
+    "Origin": "East Blue ( Conomi Islands )",
+    "Residence": "Oykot Kingdom (former) Cocoyasi Village (former); Weatheria (former, temporary)",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "18 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "July 3rd",
+    "Height": [
+      {
+        "value": "169 cm (5'7\")",
+        "context": "debut"
+      },
+      {
+        "value": "170 cm (5'7\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "366,000,000",
+        "label": "current"
+      },
+      {
+        "value": "66,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "16,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Akemi Okamura",
+        "English": "Luci Christian"
+      }
+    ],
+    "Devil Fruit": "",
+    "Appearance": "Nami is a slim, attractive young woman with orange hair and brown eyes. She has a black tattoo on her left shoulder symbolizing mikan and pinwheels, replacing her former Arlong crew mark. Her style changes frequently, often wearing stylish tops and skirts with high-heeled sandals. She wears a Log Pose on her left wrist and a gold bracelet from her sister, Nojiko. Her appearance matures notably after the timeskip." ,
+    "Personality":  "Nami is intelligent, resourceful, and fiercely independent.",
+    "Item": "Clima-Tact",
+    "Abilities": [
+      {
+        "Clima-Tact": "A weapon that allows Nami to manipulate weather patterns, creating various weather-based attacks.",
+        "Weather Manipulation": "Nami can predict and manipulate weather conditions, using her knowledge to her advantage in battles.",
+        "Navigation Skills": "Expert navigator with the ability to read and interpret sea charts and weather patterns."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Cat Burglar",
+      "Weather Manipulation",
+      "Navigation Experts",
+      "Former Arlong Pirates",
+      "Former Golden Lion Pirates",
+      "Kunoichi"
+    ]
+  },
+  "Usopp": {
+    "Description": "\"God\" Usopp,is thesniperof theStraw Hat Piratesand one of the SeniorOfficersof theStraw Hat Grand Fleet.,He is the fourth member of the crew and the third to join, doing so at the end of theSyrup Village Arc. Although he left the crew during theWater 7 Arc, he rejoined at the end of thePost-Enies Lobby Arc.,",
+    "Official English Name": "Usopp",
+    "Debut": "Chapter 23; Episode 8",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Usopp Pirates (disbanded); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Sniper; Senior Officer; Toad Oil Salesman (temporary)",
+    "Origin": "East Blue ( Gecko Islands )",
+    "Residence": "Syrup Village (former); Boin Archipelago (former, temporary)",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "17 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "April 1st (April Fool's Day)",
+    "Height": [
+      {
+        "value": "174 cm (5'9\")",
+        "context": "debut"
+      },
+      {
+        "value": "176 cm (5'9\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "500,000,000",
+        "label": "current"
+      },
+      {
+        "value": "200,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "30,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Kazuya Nakai",
+        "English": "Brina Palencia"
+      }
+    ],
+    "Devil Fruit": "",
+    "Appearance": "Usopp is a slim tan-skinned teenager with medium-length black curly hair, prominent lips, and a long nose. Usopp inherited his famous nose from his mother, while the rest of his face closely resembles his father's. During the Straw Hat separation, after landing in the Boin Archipelago, Usopp grew obese from overeating.",
+    "Personality": "Usopp is a brave and resourceful individual, known for his tall tales and inventive spirit. He is fiercely loyal to his friends and often acts as the voice of reason within the crew. Despite his cowardly tendencies, Usopp has shown immense courage in battle, especially when protecting his friends.", 
+    "Item": "Sogeking Mask",
+    "Abilities": [
+      {
+        "Sniping Skills": "Usopp is an expert marksman, capable of hitting targets from great distances with his slingshot and various specialized ammunition.",
+        "Inventiveness": "Usopp is a skilled inventor, creating various gadgets and weapons to aid the crew in battle.",
+        "Observation Haki": "Usopp has developed basic Observation Haki, allowing him to sense the presence of others and predict their movements."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Snipers",
+      "Inventors",
+      "Usopp Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance",
+      "Sogeking",
+      "Hana Arashi"
+    ]
+  },
+  "Sanji": {
+    "Description": "\"Black Leg\" Sanji,is the cook of the Straw Hat Pirates and one of the SeniorOfficers of theStraw Hat Grand Fleet.,He is the fifth member of the crew and the fourth to join, doing so at the end of theBaratie Arc.",
+    "Official English Name": "Sanji",
+    "Debut": "Chapter 43; Episode 20",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Vinsmoke Family (former); Baratie (resigned); Germa Kingdom (defected); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Cook; Senior Officer; Sous Chef (former); Prince (former); Cart Vendor (temporary)",
+    "Origin": "North Blue",
+    "Residence": "East Blue ( Baratie ) (former); Germa Kingdom (former); Momoiro Island (former, temporary)",
+    "Birth Name": "Vinsmoke Sanji",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "19 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "March 2nd",
+    "Height": [
+      {
+        "value": "177 cm (5'10\")",
+        "context": "debut"
+      },
+      {
+        "value": "180 cm (5'11\")",
+        "context": "after timeskip"
+      }
+    ],
+
+    "Bounty": [
+      {
+        "value": "1,032,000,000",
+        "label": "current"
+      },
+      {
+        "value": "330,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "177,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "77,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Hiroaki Hirata",
+        "English": "Eric Vale"
+      }
+    ],
+    "Devil Fruit": "",
+    "Appearance": "Sanji is a tall, muscular young man with long legs and jaw-length blond hair which he keeps brushed over one side of his face. Before the timeskip, this was the left side. After the two-year timeskip, he switched his hairstyle so that it covered the right side. It also appears that Sanji's hair is scruffier after the timeskip",
+    "Personality": "Sanji is chivalrous, passionate about cooking, and has a strong sense of justice. He is known for his flirtatious nature towards women",
+    "Item": "Black Leg",
+    "Abilities": [
+      {
+        "Black Leg Style": "Sanji's unique fighting style that focuses on powerful and acrobatic kicks, using his legs as his primary weapons.",
+        "Haki Mastery": "Sanji has mastered Observation Haki, allowing him to predict movements and attacks, and Armament Haki, which enhances his physical attacks.",
+        "Diable Jambe": "A technique that allows Sanji to heat his leg to create powerful fire-based attacks."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Cooks",
+      "Black Leg",
+      "Vinsmoke Family",
+      "Germa Kingdom",
+      "Ninja-Pirate-Mink-Samurai Alliance",
+      "Prince of Germa"
+    ]
+  },
+  "Tony Tony Chopper": {
+    "Description": "Tony Tony Chopper, also known as\"Cotton Candy Lover\" Chopper,,is thedoctorof theStraw Hat Piratesand one of the SeniorOfficersof theStraw Hat Grand Fleet.,He is the sixth member of the crew and the fifth to join, doing so at the end of theDrum Island Arc. He was temporarily forced to join theFoxy Piratesduring theLong Ring Long Land Arcbut was quickly returned toLuffy's crew.",
+    "Official English Name": "Tony Tony Chopper",
+    "Debut": "Chapter 134; Episode 81",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Foxy Pirates (former, temporary); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Doctor; Senior Officer",
+    "Origin": "Grand Line ( Drum Island )",
+    "Residence": "Sakura Kingdom (former); Torino Kingdom (former, temporary)",
+  
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "15 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "December 24th (Christmas Eve)",
+    "Height": [
+      {
+        "value": "90 cm (2'11\")",
+        "context": "hybrid form"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "1,000",
+        "label": "current"
+      },
+      {
+        "value": "100",
+        "label": "previous"
+      },
+      {
+        "value": "50",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Ikue Ōtani",
+        "English": "Brina Palencia"
+      }
+    ],
+    "Devil Fruit": [
+      {
+        "Japanese Name": "Hito Hito no Mi",
+        "English Name": "Human-Human Fruit",
+        "Meaning": "Human",
+        "Type": "Zoan"
+      }
+    ],
+    "Appearance": "Chopper is a small, reindeer-like creature with a blue nose and a pink hat with a white cross on it. He has large, expressive eyes and wears a red cape. In his human form, he stands upright and has a more humanoid appearance, retaining his reindeer features.",
+    "Personality": "Chopper is kind-hearted, innocent, and eager to help others",
+    "Item": "Rumble Ball",
+    "Abilities": [
+      {
+        "Rumble Ball": "A special drug that allows Chopper to transform into various forms, enhancing his abilities and combat prowess.",
+        "Medical Expertise": "Chopper is a skilled doctor, capable of treating various ailments and injuries.",
+        "Haki": "Chopper has developed basic Observation Haki, allowing him to sense the presence of others."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Doctors",
+      "Zoan Devil Fruit Users",
+      "Reindeer",
+      "Former Foxy Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ]
+  },
+   "Nico Robin": {
+"Description": "Nico Robin, known as \"Devil Child\" and the \"Light of the Revolution,\" is the archaeologist of the Straw Hat Pirates and a Senior Officer of the Grand Fleet. She is the seventh member to join, initially at the end of the Arabasta Arc, briefly leaving during Water 7 and rejoining in Enies Lobby.\n\nA survivor of Ohara and daughter of Nico Olvia, Robin ate the Hana Hana no Mi, allowing her to reproduce her body parts at will. She is one of only two people capable of reading Poneglyphs, a forbidden skill feared by the World Government.\n\nFormerly known as Miss All Sunday, she served as vice president of Baroque Works under Crocodile before joining the Straw Hats. Her dream is to find the Rio Poneglyph and uncover the true history of the Void Century.",
+    "Official English Name": "Nico Robin",
+    "Debut": "Chapter 114; Episode 67",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Baroque Works (defected); Foxy Pirates (filler, temporary); Ohara Archaeologists (former); Revolutionary Army (former, temporarily); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Archaeologist; Senior Officer; Geisha (temporary); Assassin (former); Baroque Works Vice President (former); Rain Dinners manager (former); Revolutionary (former, temporarily); Slave (former)",
+    "Origin": "West Blue",
+    "Residence": "Ohara (former); Arabasta (former); Baltigo (former, temporary)",
+    "Epithet": "\"Devil Child\"; \"Light of the Revolution\"",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "28 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "February 6th",
+    "Height": [
+      {
+        "value": "188 cm (6'2\")",
+        "context": "debut, after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "930,000,000",
+        "label": "current"
+      },
+      {
+        "value": "130,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "80,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "79,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Yuriko Yamaguchi",
+        "English": "Stephanie Young"
+      }
+    ],
+    "Devil Fruit": [
+      {
+        "Japanese Name": "Hana Hana no Mi",
+        "English Name": "Flower-Flower Fruit",
+        "Meaning": "Flower",
+        "Type": "Paramecia"
+      }
+    ],
+    "Appearance": "Nico Robin is a tall, slender young woman with shoulder-length black hair styled in a classic hime cut and eyes that have dark, wide pupils (her eyes are depicted to be brown in the manga as well as the tenth and twelfth movies; while in the anime, her eyes are depicted to be blue cerulean). She also has a long, thin, and defined nose. In the anime, Robin's skin tone has a slightly darker tan unlike in manga-colored artworks where it is lighter. Robin also resembles her mother greatly, with the exception of her hair color and style as well as having a slightly darker skin tone than her. Robin's limbs are very long, especially her legs, contributing greatly to both her fighting capabilities (given the nature of her powers) and overall height.",
+    "Personality": "Robin is calm, intelligent, and analytical.",
+    "Item": "Poneglyphs",
+    "Abilities": [
+      {
+        "Hana Hana no Mi": "Robin's Devil Fruit allows her to sprout copies of her body parts from any surface, enabling her to attack, defend, and manipulate objects from a distance.",
+        "Archaeological Knowledge": "Robin is an expert in deciphering ancient texts and Poneglyphs, crucial for uncovering the history of the world.",
+        "Haki": "Robin has developed basic Observation Haki, allowing her to sense the presence of others."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Archaeologists",
+      "Devil Fruit Users",
+      "Former Baroque Works",
+      "Former Revolutionary Army",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ]
+  },
+  "Franky": {
+"Description": "'Iron Man' Franky is the shipwright of the Straw Hat Pirates and a Senior Officer of the Straw Hat Grand Fleet. He is the eighth member to join, doing so after the Enies Lobby Arc.\nBorn Cutty Flam in South Blue, he was abandoned as a child and later joined Tom’s Workers in Water 7. After a life-threatening accident, he rebuilt himself as a cyborg. Franky later led the Franky Family before joining the Straw Hats. His dream is to build a ship capable of sailing the world—realized in the Thousand Sunny, which he constructed.\nOnce a secondary antagonist in Water 7, Franky became an ally and core crewmate. His bounty rose from 44,000,000 to 394,000,000 after the Raid on Onigashima.",
+    "Official English Name": "Franky; Frankie (originally)",
+    "Debut": "Chapter 329; Episode 233",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Franky Family (former); Tom's Workers (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Shipwright; Senior Officer; Dismantler; Underworld boss (former); Bounty Hunter (former)",
+    "Origin": "South Blue",
+    "Residence": "Water 7 (former); Karakuri Island (former, temporary)",
+
+    "Birth Name": "Cutty Flam",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "34 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "March 9th",
+    "Height": [
+      {
+        "value": "225 cm (7'5\")",
+        "context": "debut"
+      },
+      {
+        "value": "240 cm (7'10\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "394,000,000",
+        "label": "current"
+      },
+      {
+        "value": "94,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "44,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Kazuki Yao",
+        "English": "Patrick Seitz"
+      }
+    ],
+    "Devil Fruit": "",
+    "Appearance": "As a direct result of the modifications that he conducted upon himself as well as the years spent as a ship dismantler, bounty hunter, and street thug in Water 7, Franky is a powerfully built man with a height of at least seven feet, making him the third-tallest member of the Straw Hat crew, after Jinbe and Brook. His forearms are relatively enormous while his biceps are comparably small. His chest is well-toned with large abs and pectoral muscles. He has brightly colored blue hair and blue star tattoos on his forearms. Franky's eyebrows are rather long and stern, and he has three prominent lower Matsuge on each eye. His chin is very angular and tapers off in three pointed clefts. Franky has an equally angular prosthetic nose made of iron with several rivets and jagged edges, the only replacement part of his exterior body that is not covered in artificial skin.",
+    "Personality": "Franky is boisterous, flamboyant, and fiercely loyal to his friends. He has a love for building and inventing, often creating new gadgets and weapons for the crew.",
+    "Item": "Franky Shogun",
+    "Abilities": [
+      {
+        "Cyborg Body": "Franky's body is enhanced with various mechanical parts, granting him superhuman strength, durability, and the ability to fire weapons from his body.",
+        "Shipwright Skills": "Franky is an expert shipwright, capable of building and repairing ships, including the Thousand Sunny.",
+        "Haki": "Franky has developed basic Armament Haki, allowing him to enhance his physical attacks."
+      }
+    ],
+    "Main Keywords": [
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Shipwrights",
+      "Cyborgs",
+      "Franky Family",
+      "Tom's Workers",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ]
+  },
+  "Brook": {
+    "Description": "\"Soul King\"Brook, is the musician and one of the swordsmen of the Straw Hat Pirates, as well as a Senior Officer of the Grand Fleet. Formerly of the Rumbar Pirates, he ate the Yomi Yomi no Mi, which revived him after death—though delayed, leaving him as a walking skeleton. After drifting alone in the Florian Triangle for 50 years, he joined the crew at the end of the Thriller Bark Arc. Brook can now control souls and seeks to reunite with his old friend Laboon. His bounty rose from 33,000,000 to 383,000,000 after the Raid on Onigashima.",
+    "Official English Name": "Brook",
+    "Debut": "Chapter 442; Episode 337",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Rumbar Pirates (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Musician; Swordsman; Senior Officer; Pirate Captain (former); Battle Convoy leader (former); World-Famous Rock Star (former)",
+    "Origin": "West Blue",
+    "Residence": "Florian Triangle (former); Namakura Island (former, temporary)",
+    "Age": [
+      {
+        "value": "38 (first",
+        "context": "death"
+      },
+      {
+        "value": "88 (debut)",
+        "context": ""
+      },
+      {
+        "value": "90 (after",
+        "context": "timeskip"
+      }
+    ],
+    "Birthday": "April 3rd",
+    "Height": [
+      {
+        "value": "266 cm (8'9\")",
+        "context": "debut"
+      },
+      {
+        "value": "277 cm (9'1\")",
+        "context": "after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "383,000,000",
+        "label": "current"
+      },
+      {
+        "value": "83,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "33,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Chō",
+        "English": "Brianna Knickerbocker"
+      }
+    ],
+    "Devil Fruit": [
+      {
+        "Japanese Name": "Yomi Yomi no Mi",
+        "English Name": "Revive-Revive Fruit",
+        "Meaning": "Revive",
+        "Type": "Paramecia"
+      }
+    ],
+    "Appearance": "Brook is a tall, slender skeleton with an afro hairstyle. He wears a long coat, a scarf, and a pair of sunglasses. His skeletal appearance is due to the effects of the Yomi Yomi no Mi, which allowed him to return to life after dying.",
+    "Personality": "Brook is cheerful, humorous, and has a love for music.",
+    "Item": "Soul King Brook's Violin",
+    "Abilities": [
+      {
+        "Yomi Yomi no Mi": "Brook's Devil Fruit allows him to return to life after death, granting him control over his soul and the ability to manipulate it.",
+        "Musical Skills": "Brook is an exceptional musician, capable of using music to inspire and heal his allies.",
+        "Swordsmanship": "Brook is a skilled swordsman, using his swordsmanship in combination  with his Devil Fruit abilities to create unique combat techniques.",
+        "Haki": "Brook has developed basic Observation Haki, allowing him to sense the presence of others."
+      }
+    ],
+    "Main Keywords": [  
+      "Straw Hat Pirates",
+      "Straw Hat Grand Fleet",
+      "Musicians",
+      "Swordsmen",
+      "Soul King",
+      "Rumbar Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance"
+    ]
+  },
+  "Jinbe": {
+    "Description": "\"Knight of the Sea\" Jinbe is the helmsman of the Straw Hat Pirates and a Senior Officer of the Grand Fleet. A whale shark fish-man and master of Fish-Man Karate, he dreams of human-fish-man equality in honor of his former captain, Fisher Tiger. Jinbe led the Sun Pirates, became a Warlord, and later allied with Luffy during the Summit War. After severing ties with Big Mom, he officially joined the crew in the Wano Arc. His bounty rose from 76,000,000 to 1,100,000,000 after the Raid on Onigashima.",
+    "Official English Name": "Jinbe ( OPCG , Crunchyroll); Jimbei (VIZ)",
+    "Debut": "Chapter 528; Episode 430",
+    "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Sun Pirates (former); Ally of the Big Mom Pirates (former); Seven Warlords of the Sea (former); Ryugu Kingdom (resigned); Impel Down (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+    "Occupations": "Pirate; Helmsman; Senior Officer; Captain (former); Warlord of the Sea (former); Soldier (former); Prisoner of the Great Prison (former)",
+    "Origin": "Grand Line (Ryugu Kingdom, Fish-Man Island )",
+    "Residence": "Fish-Man District (former)",
+    "Status": "Alive",
+    "Age": [
+      {
+        "value": "44 (debut)",
+        "context": ""
+      }
+    ],
+    "Birthday": "April 2nd",
+    "Height": [
+      {
+        "value": "301 cm (9'11\")",
+        "context": "debut, after timeskip"
+      }
+    ],
+    "Bounty": [
+      {
+        "value": "1,100,000,000",
+        "label": "current"
+      },
+      {
+        "value": "438,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "250,000,000",
+        "label": "previous"
+      },
+      {
+        "value": "76,000,000",
+        "label": "previous"
+      }
+    ],
+    "Voice Actors": [
+      {
+        "Japanese": "Daisuke Gori (deceased)",
+        "English": "Matthew Mercer"
+      }
+    ],
+    "Devil Fruit": "",
+    "Appearance": "Jinbe is a large",
+    "Personality": "Jinbe is calm, wise, and fiercely loyal to his friends. He has a strong sense of justice and is willing to sacrifice himself for the greater good.",
+    "Item ": "Shark Sword",
+    "Abilities": [
+      {
+        "Fish-Man Karate": "Jinbe is a master of Fish-Man Karate, allowing him to manipulate water as a weapon and deliver powerful martial arts attacks both on land and underwater.",
+        "Fish-Man Jujutsu": "Jinbe is skilled in Fish-Man Jujutsu, a martial art that focuses on grappling and controlling opponents, especially effective underwater.",
+        "Helmsman Skills": "Jinbe is an expert helmsman, capable of steering ships through the most dangerous seas and weather conditions.",
+        "Haki": "Jinbe has mastered both Armament Haki, enhancing his attacks and defense, and Observation Haki, allowing him to sense the presence and intentions of others."
+      }
+    ],
+    "Main Keywords": [
+   "Fish-Men",
+    "Sun-Pirates",
+    "Helmsman",
+    "Former Warlord of the Sea",
+    "Former Big Mom Pirates",
+    "Former Sun Pirates",
+    "Former Ryugu Kingdom",
+    "Fish-Man Karate",
+    "Knight of the Sea",
+    "Seven Warlords of the Sea"
+    ]
+  }
+}
