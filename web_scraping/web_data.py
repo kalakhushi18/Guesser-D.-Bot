@@ -17,7 +17,7 @@ straw_hat_pirates = [
     "Jinbe"
 ]
 
-url = "https://onepiece.fandom.com/wiki/Jinbe"
+url = "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
 headers = {"User-Agent": "Mozilla/5.0"}
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.text, "html.parser")
@@ -147,7 +147,7 @@ all_characters[character_name] = stats
 
 
 # Save to master JSON file
-with open("straw_hat_pirates_zoro.json", "w", encoding="utf-8") as f:
+with open("marines_individual.json", "w", encoding="utf-8") as f:
     json.dump(all_characters, f, ensure_ascii=False, indent=2)
 
 

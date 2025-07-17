@@ -2,86 +2,24 @@
   "Monkey D. Luffy": {
     "name": "Monkey D. Luffy",
     "Description": "Monkey D. Luffy, known as Straw Hat Luffy, is the founder and captain of the Straw Hat Pirates. He seeks the treasure of Gol D. Roger to become the Pirate King, believing it represents ultimate freedom, and pursues a deeper, personal dream known only to his crew and closest allies.\nBorn on Dawn Island, Luffy is the son of Monkey D. Dragon, leader of the Revolutionary Army, and grandson of Marine hero Monkey D. Garp, making him part of the mysterious Clan of D. Raised by Curly Dadan, he formed a brotherhood with Ace and Sabo, and was deeply inspired by Shanks, who gave him his signature straw hat and accidentally caused him to eat the Gomu Gomu no Mi, turning his body to rubber.\nLuffy has challenged powerful enemies across the seas—Warlords, Marines, Cipher Pol, World Nobles, and Emperors—earning victories at Enies Lobby, Impel Down, Marineford, and Onigashima, where he defeated Kaidou. Despite his recklessness, he draws allies from across the world and commands the Straw Hat Grand Fleet.\nHis bold actions, heritage, and strength have made him one of the Four Emperors, a central figure of the Worst Generation, and a direct threat to the World Government. With a current bounty of 3,000,000,000, Luffy is also seen as the prophesied return of Joy Boy and the modern embodiment of the Sun God Nika, following the awakening of his Devil Fruit.",
-    "Official English Name": "Monkey D. Luffy",
-    "Debut": "Chapter 1; Episode 1",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Four Emperors; Clan of D.; Dadan Family (former); Baratie (temporary, former); Impel Down (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Pirate Captain; Emperor; Senior Captain of the Grand Fleet; Prisoner (former); Chore Boy (temporary, former); Bandit (former)",
     "Origin": "East Blue ( Foosha Village )",
     "Residence": "Foosha Village (former); Mt. Colubo (former); Rusukaina (former)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "7 (debut)",
-        "context": ""
-      },
-      {
-        "value": "17 (pre-timeskip)",
-        "context": ""
-      },
-      {
-        "value": "19 (after",
-        "context": "timeskip"
-      }
-    ],
-    "Birthday": "May 5th (Children's Day)",
-    "Height": [
-      {
-        "value": "91 cm (3')",
-        "context": "debut, child"
-      },
-      {
-        "value": "172 cm (5'8\")",
-        "context": "pre-timeskip"
-      },
-      {
-        "value": "174 cm (5'9\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "3,000,000,000",
         "label": "current"
-      },
-      {
-        "value": "1,500,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "500,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "400,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "300,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "100,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "30,000,000",
-        "label": "previous"
       }
     ],
     "Devil Fruit": [
       {
-        "Japanese Name": "Gomu Gomu no Mi (Hito Hito no Mi, Model: Nika)",
         "English Name": "Gum-Gum Fruit (Human-Human Fruit, Model: Nika)",
         "Meaning": "Rubber; Human; Nika",
         "Type": "Paramecia (Zoan, Mythical)"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Mayumi Tanaka",
-        "English": "Bella Hudson"
-      }
-    ],
+
     "Appearance": "Luffy is a slim, muscular young man with shaggy black hair, round black eyes, and a distinct scar under his left eye. He’s best known for his yellow straw hat with a red band—given to him by Shanks and originally worn by Gol D. Roger. Before the timeskip, he wore a red vest, blue shorts, and sandals. He also has a large X-shaped scar on his chest, received during the Summit War at Marineford.",
     "Personality": "Luffy is carefree, optimistic, and fiercely loyal to his friends. He values freedom above all else and is known for his insatiable appetite and love for adventure. Despite his laid-back demeanor, he possesses a strong sense of justice and will go to great lengths to protect those he cares about. Luffy's determination and resilience make him a natural leader, inspiring those around him to follow him into battle.",
     "Item": "Straw Hat",
@@ -124,47 +62,10 @@
     "Occupations": "Master Swordsman; Pirate; Crew Combatant; Senior Officer; Rōnin (temporary); Bounty Hunter (former)",
     "Origin": "East Blue",
     "Residence": "Shimotsuki Village (former); Kuraigana Island (former, temporary)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "19 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "November 11th",
-    "Height": [
-      {
-        "value": "178 cm (5'10\")",
-        "context": "debut"
-      },
-      {
-        "value": "181 cm (5'11\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "1,111,000,000",
         "label": "current"
-      },
-      {
-        "value": "320,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "120,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "60,000,000",
-        "label": "previous"
-      }
-    ],
-    "Devil Fruit": "",
-    "Voice Actors": [
-      {
-        "Japanese": "Kazuya Nakai",
-        "English": "Marc Diraison"
       }
     ],
     "Appearance": "Zoro is a tall, muscular young man with green cropped hair and lightly tanned skin. He carries three swords on his right hip, always including the Wado Ichimonji, with the other two changing over time. He wears a green haramaki, a black bandana tied on his left arm (worn on his head during serious fights), and three gold earrings on his left ear.\nHis body bears many battle scars, including a large diagonal scar from his fight with Dracule Mihawk and another over his left eye, origin unknown. Sanji often mocks his hair by calling him (moss-head).",
@@ -195,48 +96,15 @@
   "Nami": {
     "name": "Nami",
     "Description": "'Cat Burglar' Nami is the navigator of the Straw Hat Pirates and a Senior Officer of the Straw Hat Grand Fleet. She is the third member to join, initially infiltrating the crew during the Orange Town Arc while secretly working to free her village from the Arlong Pirates. After Arlong's defeat, she officially became a Straw Hat. Nami dreams of mapping the entire world. Her bounty rose from 16,000,000 after Enies Lobby to 66,000,000 post-Dressrosa, and reached 366,000,000 following the Raid on Onigashima.",
-    "Official English Name": "Nami",
     "Debut": "Chapter 8; Episode 1 Chapter 1 (cover)",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Arlong Pirates (defected); Ganzack Pirates (movie, former); Golden Lion Pirates (movie, former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Navigator; Senior Officer; Thief; Pirate Officer (Arlong Pirates, former); Kunoichi (temporary)",
     "Origin": "East Blue ( Conomi Islands )",
     "Residence": "Oykot Kingdom (former) Cocoyasi Village (former); Weatheria (former, temporary)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "18 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "July 3rd",
-    "Height": [
-      {
-        "value": "169 cm (5'7\")",
-        "context": "debut"
-      },
-      {
-        "value": "170 cm (5'7\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "366,000,000",
         "label": "current"
-      },
-      {
-        "value": "66,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "16,000,000",
-        "label": "previous"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Akemi Okamura",
-        "English": "Luci Christian"
       }
     ],
     "Devil Fruit": "",
@@ -270,45 +138,12 @@
     "Occupations": "Sniper; Senior Officer; Toad Oil Salesman (temporary)",
     "Origin": "East Blue ( Gecko Islands )",
     "Residence": "Syrup Village (former); Boin Archipelago (former, temporary)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "17 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "April 1st (April Fool's Day)",
-    "Height": [
-      {
-        "value": "174 cm (5'9\")",
-        "context": "debut"
-      },
-      {
-        "value": "176 cm (5'9\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "500,000,000",
         "label": "current"
-      },
-      {
-        "value": "200,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "30,000,000",
-        "label": "previous"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Kazuya Nakai",
-        "English": "Brina Palencia"
-      }
-    ],
-    "Devil Fruit": "",
     "Appearance": "Usopp is a slim tan-skinned teenager with medium-length black curly hair, prominent lips, and a long nose. Usopp inherited his famous nose from his mother, while the rest of his face closely resembles his father's. During the Straw Hat separation, after landing in the Boin Archipelago, Usopp grew obese from overeating.",
     "Personality": "Usopp is a brave and resourceful individual, known for his tall tales and inventive spirit. He is fiercely loyal to his friends and often acts as the voice of reason within the crew. Despite his cowardly tendencies, Usopp has shown immense courage in battle, especially when protecting his friends.",
     "Item": "Sogeking Mask",
@@ -340,49 +175,13 @@
     "Origin": "North Blue",
     "Residence": "East Blue ( Baratie ) (former); Germa Kingdom (former); Momoiro Island (former, temporary)",
     "Birth Name": "Vinsmoke Sanji",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "19 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "March 2nd",
-    "Height": [
-      {
-        "value": "177 cm (5'10\")",
-        "context": "debut"
-      },
-      {
-        "value": "180 cm (5'11\")",
-        "context": "after timeskip"
-      }
-    ],
-
     "Bounty": [
       {
         "value": "1,032,000,000",
         "label": "current"
-      },
-      {
-        "value": "330,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "177,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "77,000,000",
-        "label": "previous"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroaki Hirata",
-        "English": "Eric Vale"
-      }
-    ],
+
     "Devil Fruit": "",
     "Appearance": "Sanji is a tall, muscular young man with long legs and jaw-length blond hair which he keeps brushed over one side of his face. Before the timeskip, this was the left side. After the two-year timeskip, he switched his hairstyle so that it covered the right side. It also appears that Sanji's hair is scruffier after the timeskip",
     "Personality": "Sanji is chivalrous, passionate about cooking, and has a strong sense of justice. He is known for his flirtatious nature towards women",
@@ -408,45 +207,14 @@
   "Tony Tony Chopper": {
     "name": "Tony Tony Chopper",
     "Description": "Tony Tony Chopper, also known as\"Cotton Candy Lover\" Chopper,,is thedoctorof theStraw Hat Piratesand one of the SeniorOfficersof theStraw Hat Grand Fleet.,He is the sixth member of the crew and the fifth to join, doing so at the end of theDrum Island Arc. He was temporarily forced to join theFoxy Piratesduring theLong Ring Long Land Arcbut was quickly returned toLuffy's crew.",
-    "Official English Name": "Tony Tony Chopper",
-    "Debut": "Chapter 134; Episode 81",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Foxy Pirates (former, temporary); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Doctor; Senior Officer",
     "Origin": "Grand Line ( Drum Island )",
     "Residence": "Sakura Kingdom (former); Torino Kingdom (former, temporary)",
-
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "15 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "December 24th (Christmas Eve)",
-    "Height": [
-      {
-        "value": "90 cm (2'11\")",
-        "context": "hybrid form"
-      }
-    ],
     "Bounty": [
       {
         "value": "1,000",
         "label": "current"
-      },
-      {
-        "value": "100",
-        "label": "previous"
-      },
-      {
-        "value": "50",
-        "label": "previous"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Ikue Ōtani",
-        "English": "Brina Palencia"
       }
     ],
     "Devil Fruit": [
@@ -480,49 +248,16 @@
   "Nico Robin": {
     "name": "Nico Robin",
     "Description": "Nico Robin, known as \"Devil Child\" and the \"Light of the Revolution,\" is the archaeologist of the Straw Hat Pirates and a Senior Officer of the Grand Fleet. She is the seventh member to join, initially at the end of the Arabasta Arc, briefly leaving during Water 7 and rejoining in Enies Lobby.\n\nA survivor of Ohara and daughter of Nico Olvia, Robin ate the Hana Hana no Mi, allowing her to reproduce her body parts at will. She is one of only two people capable of reading Poneglyphs, a forbidden skill feared by the World Government.\n\nFormerly known as Miss All Sunday, she served as vice president of Baroque Works under Crocodile before joining the Straw Hats. Her dream is to find the Rio Poneglyph and uncover the true history of the Void Century.",
-    "Official English Name": "Nico Robin",
     "Debut": "Chapter 114; Episode 67",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Baroque Works (defected); Foxy Pirates (filler, temporary); Ohara Archaeologists (former); Revolutionary Army (former, temporarily); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Archaeologist; Senior Officer; Geisha (temporary); Assassin (former); Baroque Works Vice President (former); Rain Dinners manager (former); Revolutionary (former, temporarily); Slave (former)",
     "Origin": "West Blue",
     "Residence": "Ohara (former); Arabasta (former); Baltigo (former, temporary)",
     "Epithet": "\"Devil Child\"; \"Light of the Revolution\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "28 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "February 6th",
-    "Height": [
-      {
-        "value": "188 cm (6'2\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "930,000,000",
         "label": "current"
-      },
-      {
-        "value": "130,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "80,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "79,000,000",
-        "label": "previous"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Yuriko Yamaguchi",
-        "English": "Stephanie Young"
       }
     ],
     "Devil Fruit": [
@@ -555,52 +290,17 @@
   },
   "Franky": {
     "name": "Franky",
-
     "Description": "'Iron Man' Franky is the shipwright of the Straw Hat Pirates and a Senior Officer of the Straw Hat Grand Fleet. He is the eighth member to join, doing so after the Enies Lobby Arc.\nBorn Cutty Flam in South Blue, he was abandoned as a child and later joined Tom’s Workers in Water 7. After a life-threatening accident, he rebuilt himself as a cyborg. Franky later led the Franky Family before joining the Straw Hats. His dream is to build a ship capable of sailing the world—realized in the Thousand Sunny, which he constructed.\nOnce a secondary antagonist in Water 7, Franky became an ally and core crewmate. His bounty rose from 44,000,000 to 394,000,000 after the Raid on Onigashima.",
-    "Official English Name": "Franky; Frankie (originally)",
+
     "Debut": "Chapter 329; Episode 233",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Franky Family (former); Tom's Workers (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Shipwright; Senior Officer; Dismantler; Underworld boss (former); Bounty Hunter (former)",
     "Origin": "South Blue",
     "Residence": "Water 7 (former); Karakuri Island (former, temporary)",
-
-    "Birth Name": "Cutty Flam",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "34 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "March 9th",
-    "Height": [
-      {
-        "value": "225 cm (7'5\")",
-        "context": "debut"
-      },
-      {
-        "value": "240 cm (7'10\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "394,000,000",
         "label": "current"
-      },
-      {
-        "value": "94,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "44,000,000",
-        "label": "previous"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Kazuki Yao",
-        "English": "Patrick Seitz"
       }
     ],
     "Devil Fruit": "",
@@ -627,55 +327,15 @@
   "Brook": {
     "name": "Brook",
     "Description": "\"Soul King\"Brook, is the musician and one of the swordsmen of the Straw Hat Pirates, as well as a Senior Officer of the Grand Fleet. Formerly of the Rumbar Pirates, he ate the Yomi Yomi no Mi, which revived him after death—though delayed, leaving him as a walking skeleton. After drifting alone in the Florian Triangle for 50 years, he joined the crew at the end of the Thriller Bark Arc. Brook can now control souls and seeks to reunite with his old friend Laboon. His bounty rose from 33,000,000 to 383,000,000 after the Raid on Onigashima.",
-    "Official English Name": "Brook",
     "Debut": "Chapter 442; Episode 337",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Rumbar Pirates (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Musician; Swordsman; Senior Officer; Pirate Captain (former); Battle Convoy leader (former); World-Famous Rock Star (former)",
     "Origin": "West Blue",
     "Residence": "Florian Triangle (former); Namakura Island (former, temporary)",
-    "Age": [
-      {
-        "value": "38 (first",
-        "context": "death"
-      },
-      {
-        "value": "88 (debut)",
-        "context": ""
-      },
-      {
-        "value": "90 (after",
-        "context": "timeskip"
-      }
-    ],
-    "Birthday": "April 3rd",
-    "Height": [
-      {
-        "value": "266 cm (8'9\")",
-        "context": "debut"
-      },
-      {
-        "value": "277 cm (9'1\")",
-        "context": "after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "383,000,000",
         "label": "current"
-      },
-      {
-        "value": "83,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "33,000,000",
-        "label": "previous"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Chō",
-        "English": "Brianna Knickerbocker"
       }
     ],
     "Devil Fruit": [
@@ -710,51 +370,17 @@
   "Jinbe": {
     "name": "Jinbe",
     "Description": "\"Knight of the Sea\" Jinbe is the helmsman of the Straw Hat Pirates and a Senior Officer of the Grand Fleet. A whale shark fish-man and master of Fish-Man Karate, he dreams of human-fish-man equality in honor of his former captain, Fisher Tiger. Jinbe led the Sun Pirates, became a Warlord, and later allied with Luffy during the Summit War. After severing ties with Big Mom, he officially joined the crew in the Wano Arc. His bounty rose from 76,000,000 to 1,100,000,000 after the Raid on Onigashima.",
-    "Official English Name": "Jinbe ( OPCG , Crunchyroll); Jimbei (VIZ)",
     "Debut": "Chapter 528; Episode 430",
     "Affiliations": "Straw Hat Pirates; Straw Hat Grand Fleet; Sun Pirates (former); Ally of the Big Mom Pirates (former); Seven Warlords of the Sea (former); Ryugu Kingdom (resigned); Impel Down (former); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Pirate; Helmsman; Senior Officer; Captain (former); Warlord of the Sea (former); Soldier (former); Prisoner of the Great Prison (former)",
     "Origin": "Grand Line (Ryugu Kingdom, Fish-Man Island )",
     "Residence": "Fish-Man District (former)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "44 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "April 2nd",
-    "Height": [
-      {
-        "value": "301 cm (9'11\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "1,100,000,000",
         "label": "current"
-      },
-      {
-        "value": "438,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "250,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "76,000,000",
-        "label": "previous"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Daisuke Gori (deceased)",
-        "English": "Matthew Mercer"
-      }
-    ],
-    "Devil Fruit": "",
     "Appearance": "Jinbe is a large",
     "Personality": "Jinbe is calm, wise, and fiercely loyal to his friends. He has a strong sense of justice and is willing to sacrifice himself for the greater good.",
     "Item ": "Shark Sword",
