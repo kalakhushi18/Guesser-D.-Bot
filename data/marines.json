@@ -2,20 +2,9 @@
   "Borsalino": {
     "name": "Kizaru",
     "Description": "Kizaru, also known as Borsalino, is a Marine Admiral and the last remaining member of the original Admiral trio. Known for his significant role in major arcs, he serves as a key antagonist in the Sabaody, Marineford, and Egghead arcs",
-    "Official English Name": "Borsalino",
-    "Debut": "Chapter 504; Episode 398",
     "Affiliations": "Marines",
     "Occupations": "Admiral; Vice Admiral (former)",
     "Origin": "North Blue",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "56 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "November 23rd",
-    "Height": ["302 cm"],
     "Bounty": [
       {
         "value": "3,000,000,000",
@@ -30,57 +19,38 @@
         "Type": "Logia"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Unshou Ishizuka",
-        "English": "Christopher Sabat"
-      }
-    ],
-    "Appearance":   "Light brown skin, short black hair, and a goatee. He wears a white Marine coat with a blue shirt and pants, and sunglasses.",
+    "Appearance": "Light brown skin, short black hair, and a goatee. He wears a white Marine coat with a blue shirt and pants, and sunglasses.",
     "Personality": "Calm, laid-back, and indifferent. He often speaks in a casual manner and has a nonchalant attitude towards serious situations.",
     "Item": "Light Speed Movement",
     "Abilities": [
-        {
+      {
         "Light Speed Movement": "Kizaru can move at the speed of light, allowing him to travel vast distances almost instantaneously.",
-     
         "Light Manipulation": "He can create and control light, using it to attack or defend.",
         "Intangibility": "As a Logia user, Kizaru can become intangible, allowing attacks to pass through him."
-        
       }
     ],
 
     "Main Keywords": [
-        "Admiral",
-        "Marine",
-        "Light Speed",
-        "Logia",
-        "Kizaru",
-        "Borsalino",
-        "Glint-Glint Fruit",
-        "Obersvation Haki",
-        "Light Manipulation",
-        "Armament Haki",
-        "Intangibility"
+      "Admiral",
+      "Marine",
+      "Light Speed",
+      "Logia",
+      "Kizaru",
+      "Borsalino",
+      "Glint-Glint Fruit",
+      "Obersvation Haki",
+      "Light Manipulation",
+      "Armament Haki",
+      "Intangibility"
     ]
   },
-    "Issho": {
+  "Issho": {
     "name": "Fujitora",
     "Description": "Fujitora, also known as Issho, is a Marine Admiral appointed through the World Military Draft during the two-year timeskip. Formerly a guard captain, he is known for his belief in Humane Justice and led the movement to abolish the Warlord system. He played a key role in the Dressrosa Arc, where he appeared as a secondary antagonist.",
-    "Official English Name": "Issho",
-    "Debut": "Chapter 701; Episode 630",
     "Affiliations": "Marines",
     "Occupations": "Admiral; Guard Captain (former); Bodyguard (former)",
     "Origin": "Grand Line ( Aoi Kingdom )",
     "Residence": "Aoi Kingdom (former) Soja Island (former)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "54",
-        "context": ""
-      }
-    ],
-    "Birthday": "August 10th",
-    "Height": ["270 cm"],
     "Bounty": [
       {
         "value": "3,000,000,000",
@@ -93,12 +63,6 @@
         "English Name": "Press-Press Fruit[",
         "Meaning": "Sound of heavy stomps",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Unshou Ishizuka",
-        "English": "Christopher Sabat"
       }
     ],
     "Appearance": "Fujitora is a blind man with only the whites of his eyes showing, though he usually keeps both eyes closed. He has an X-shaped scar centered on the left side of his forehead that stretches over both eyes, which was actually self-inflicted due to his decision to blind himself. He has short, spiky black hair and a beard. He wears a purple coat with a high collar, a white shirt, and dark pants. He also carries a cane sword.",
@@ -114,39 +78,26 @@
     ],
 
     "Main Keywords": [
-        "Admiral",
-        "Marine",
-        "Gravity Manipulation",
-        "Paramecia",
-        "Fujitora",
-        "Issho",
-        "Press-Press Fruit",
-        "Humane Justice",
-        "Swordsmanship",
-        "Observation Haki",
-        "Armament Haki"
+      "Admiral",
+      "Marine",
+      "Gravity Manipulation",
+      "Paramecia",
+      "Fujitora",
+      "Issho",
+      "Press-Press Fruit",
+      "Humane Justice",
+      "Swordsmanship",
+      "Observation Haki",
+      "Armament Haki"
     ]
   },
-    "Kuzan": {
+  "Kuzan": {
     "name": "Aokiji",
     "Description": "Kuzan, also known as Aokiji, is a former Marine Admiral who now serves as the captain of the Tenth Ship of the Blackbeard Pirates. Once a candidate for Fleet Admiral, he resigned after losing a duel to Sakazuki. He has played various antagonist roles throughout the series, notably in the Long Ring Long Land, Marineford, Egghead, and Final Saga arcs.",
-    "Official English Name": "Kuzan",
-    "Debut": "Chapter 303; Episode 225",
     "Affiliations": "Blackbeard Pirates; Marines (resigned)",
     "Occupations": "Pirate; Titanic Captain (Captain of the Tenth Ship); Admiral (former); Vice Admiral (former)",
     "Origin": "South Blue ( Vespa Kingdom territory)",
     "Residence": "Hachinosu",
-    "Alias": [
-     
-    ],
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "47 (debut)"
-      }
-    ],
-    "Birthday": "September 21st",
-    "Height": ["298 cm"],
     "Devil Fruit": [
       {
         "Japanese Name": "Hie Hie no Mi",
@@ -155,19 +106,13 @@
         "Type": "Logia"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Takehito Koyasu" ,
-        "English": "Bob Carter"
-      }
-    ],
     "Appearance": "Kuzan is an incredibly tall, slim, yet muscular man with dark skin and a large, round head. He has short, spiky black hair and a beard. He wears a blue coat with a white shirt underneath, blue pants, and sandals. He also has a pair of sunglasses that he often wears on his forehead.",
     "Personality": "Calm, laid-back, and indifferent. He often speaks in a casual manner and has a nonchalant attitude towards serious situations.",
     "Item": "Light Speed Movement",
     "Abilities": [
       {
         "Ice Manipulation": "Kuzan can create, control, and transform into ice, allowing him to freeze opponents and large areas instantly.",
-        "Ice Age": "He can freeze entire bodies of water and create massive ice structures.",       
+        "Ice Age": "He can freeze entire bodies of water and create massive ice structures.",
         "Intangibility": "As a Logia user, Kuzan can become intangible, allowing attacks to pass through him.",
         "Observation Haki": "Kuzan possesses advanced Observation Haki, allowing him to sense the presence and emotions of others.",
         "Armament Haki": "He can use Armament Haki to enhance his attacks and defend against powerful foes."
@@ -175,50 +120,34 @@
     ],
 
     "Main Keywords": [
-        "Admiral",
-        "Marine",
-        "Ice Manipulation",
-        "Logia",
-        "Kuzan",
-        "Aokiji",
-        "Ice-Ice Fruit",
-        "Calm",
-        "Laid-back",
-        "Intangibility",
-        "Observation Haki",
-        "Armament Haki"
-
+      "Admiral",
+      "Marine",
+      "Ice Manipulation",
+      "Logia",
+      "Kuzan",
+      "Aokiji",
+      "Ice-Ice Fruit",
+      "Calm",
+      "Laid-back",
+      "Intangibility",
+      "Observation Haki",
+      "Armament Haki"
     ]
   },
-    "Sakazuki": {
+  "Sakazuki": {
     "name": "Akainu",
     "Description": "Sakazuki, formerly known as Akainu, is the current Fleet Admiral of the Marines and a staunch enforcer of Absolute Justice. He rose to power after defeating Aokiji and relocating Marine Headquarters to the New World. Known for his extreme ideology, he serves as the main antagonist of the Marineford Arc and a major antagonist in the latter half of the series.",
-    "Official English Name": "Sakazuki",
-    "Debut": "Chapter 397; Episode 278",
     "Affiliations": "Marines",
     "Occupations": "Fleet Admiral; Admiral (former); Vice Admiral (former)",
     "Origin": "North Blue",
     "Residence": "Marine Headquarters ( New Marineford )",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "53 (debut)",
-        "context": ""
-      },
-      {
-        "value": "55 (after",
-        "context": "timeskip"
-      }
-    ],
-    "Birthday": "August 16th",
-    "Height": ["306 cm"],
     "Bounty": [
       {
         "value": "5,000,000,000",
         "label": "current"
       }
     ],
-  
+
     "Devil Fruit": [
       {
         "Japanese Name": "Magu Magu no Mi",
@@ -227,15 +156,9 @@
         "Type": "Logia"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Ryūzaburō Ōtomo",
-        "English": "Patrick Seitz"
-      }
-    ],
-    "Appearance":   "Sakazuki is a tall, muscular  ",
+    "Appearance": "Sakazuki is a tall, muscular  ",
     "Personality": "Ruthless, uncompromising, and fiercely loyal to the Marines. He believes in absolute justice and is willing to go to any lengths to achieve it.",
-    "Item":  "Magmatic Fist",
+    "Item": "Magmatic Fist",
     "Abilities": [
       {
         "Magma Manipulation": "Sakazuki can create, control, and transform into magma, allowing him to melt opponents and large areas instantly.",
@@ -247,40 +170,29 @@
     ],
 
     "Main Keywords": [
-        "Fleet Admiral",
-        "Marine",
-        "Magma Manipulation",
-        "Logia",
-        "Sakazuki",
-        "Akainu",
-        "Magma-Magma Fruit",
-        "Ruthless",
-        "Uncompromising",
-        "Magmatic Fist",
-        "Intangibility",
-        "Observation Haki",
-        "Armament Haki"
+      "Fleet Admiral",
+      "Marine",
+      "Magma Manipulation",
+      "Logia",
+      "Sakazuki",
+      "Akainu",
+      "Magma-Magma Fruit",
+      "Ruthless",
+      "Uncompromising",
+      "Magmatic Fist",
+      "Intangibility",
+      "Observation Haki",
+      "Armament Haki"
     ]
-},
+  },
   "Sengoku": {
     "name": "Sengoku",
     "Description": "Sengoku the Buddha is a former Fleet Admiral of the Marines who led during the era of Gol D. Roger and the Marineford War. After the war, he stepped down and became Inspector General. A key figure in Marine history, he also acted as a mentor to Donquixote Rosinante. He serves as a major antagonist in the Marineford Arc.",
-    "Official English Name": "Sengoku",
-    "Debut": "Chapter 234; Episode 151",
     "Affiliations": "Marines (semi-retired)",
     "Occupations": "Inspector General; Fleet Admiral (former); Admiral (former)",
     "Origin": "South Blue",
     "Residence": "Marine Headquarters ( Marineford ) (former)",
     "Epithet": "\"Sengoku the Buddha\"; \"The Resourceful General\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "77 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "May 9th",
-    "Height": ["278 cm"],
     "Bounty": [
       {
         "value": "5,000,000,000",
@@ -295,15 +207,9 @@
         "Type": "Zoan"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Takeshi Aono",
-        "English": "John Swasey"
-      }
-    ],
     "Appearance": "Sengoku is a tall, fair-skinned, and muscular man with a long, braided goatee and a mustache. He is usually seen alongside his pet goat. His cap covers his hair, which is set in a large afro. His afro was revealed after using his Devil Fruit powers and having his cap knocked off",
     "Personality": "Sengoku is a wise and strategic leader who values justice and the safety of the world. He is known for his calm demeanor and ability to make difficult decisions for the greater good.",
-    "Item": "Buddha Transformation",    
+    "Item": "Buddha Transformation",
     "Abilities": [
       {
         "Buddha Transformation": "Sengoku can transform into a giant golden Buddha, greatly enhancing his strength and durability.",
@@ -313,44 +219,32 @@
       }
     ],
     "Main Keywords": [
-        "Fleet Admiral",
-        "Marine",
-        "Buddha Transformation",
-        "Zoan",
-        "Sengoku",
-        "Human-Human Fruit",
-        "Strategic Leader",
-        "Shockwave Generation",
-        "Haki Mastery"
+      "Fleet Admiral",
+      "Marine",
+      "Buddha Transformation",
+      "Zoan",
+      "Sengoku",
+      "Human-Human Fruit",
+      "Strategic Leader",
+      "Shockwave Generation",
+      "Haki Mastery"
     ]
-  
-},
-"Monkey D. Garp": {
+  },
+  "Monkey D. Garp": {
     "name": "Monkey D. Garp",
     "Description": "Monkey D. Garp, known as Garp the Fist, is a legendary Marine Vice Admiral famed for his strength and heroic deeds, particularly during the God Valley Incident. He is the father of Dragon, grandfather of Luffy, and adoptive grandfather of Ace. Despite his status, he refused promotion to Admiral due to his disdain for the World Nobles and remains a pivotal figure in Marine history.",
-    "Official English Name": "Monkey D. Garp",
-    "Debut": "Chapter 92 ( cover ); Episode 68",
     "Affiliations": "Marines (semi-retired); Clan of D.",
     "Occupations": "Vice Admiral; Instructor",
     "Origin": "East Blue ( Goa Kingdom )",
     "Residence": "Foosha Village (former)",
     "Epithet": "\"Garp the Fist\"; Hero of the Marines (VIZ: \"Naval Hero\")",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "76 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "May 2nd",
-    "Height": ["287 cm"],
     "Bounty": [
       {
         "value": "3,000,000,000",
         "label": "current"
       }
     ],
-  "Devil Fruit": [
+    "Devil Fruit": [
       {
         "Japanese Name": "N/A",
         "English Name": "N/A",
@@ -358,13 +252,7 @@
         "Type": "N/A"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Chōzō Ōtsuka",
-        "English": "Christopher Sabat"
-      }
-    ],
-    "Appearance": "Garp is a tall, tanned, broad-chested, muscular old man. He has a beard and a scar around his left eye, somewhat reminiscient of the scar Luffy has under his right eye. In the anime, his eye color is blue, and his hair is gray, whereas in the manga, it is white. "  ,
+    "Appearance": "Garp is a tall, tanned, broad-chested, muscular old man. He has a beard and a scar around his left eye, somewhat reminiscient of the scar Luffy has under his right eye. In the anime, his eye color is blue, and his hair is gray, whereas in the manga, it is white. ",
     "Personality": "Garp is a boisterous, carefree, and humorous individual who values strength and justice. He has a strong sense of duty towards the Marines but also cares deeply for his family, often showing a softer side when it comes to Luffy and Ace.",
     "Item": "Fist of Love",
     "Abilities": [
@@ -374,39 +262,29 @@
         "Combat Experience": "Garp has extensive combat experience, having fought against some of the strongest pirates in history.",
         "Strategic Mind": "As a seasoned Marine, Garp has a keen strategic mind and is skilled in battle tactics."
       }
-    ],  
+    ],
 
     "Main Keywords": [
-        "Vice Admiral",
-        "Marine",
-        "Haki Mastery",
-        "Monkey D. Garp",
-        "Garp the Fist",
-        "Hero of the Marines",
-        "Superhuman Strength",
-        "Combat Experience",
-        "Strategic Mind"
-    ] 
-},
- "Smoker": {
+      "Vice Admiral",
+      "Marine",
+      "Haki Mastery",
+      "Monkey D. Garp",
+      "Garp the Fist",
+      "Hero of the Marines",
+      "Superhuman Strength",
+      "Combat Experience",
+      "Strategic Mind"
+    ]
+  },
+  "Smoker": {
     "name": "Smoker",
     "Description": "Smoker the White Hunter is a Marine Vice Admiral and commander of the G-5 base. Initially stationed in Loguetown, he became determined to capture Luffy and pursued him into the Grand Line. Though once an antagonist, Smoker evolved into a complex figure, clashing with and occasionally allying with the Straw Hats throughout several arcs, including Loguetown, Marineford, Arabasta, and Punk Hazard.",
-    "Official English Name": "Smoker (VIZ, Funimation), Chaser (4Kids)",
-    "Debut": "Chapter 97; Episode 48",
+
     "Affiliations": "Marines; G-5; Loguetown Marine Base (former)",
     "Occupations": "Vice Admiral; ; Base Commander of G-5; Commander of G-5 Unit 01; Commodore (former); Captain (former)",
     "Origin": "Grand Line",
     "Residence": "G-5 Loguetown (former)",
     "Epithet": "\"Smoker the White Hunter\"; \"White Chase Smoker\" (VIZ); \"Smoke Hunter\" (4Kids)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "34 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "March 14th",
-    "Height": ["209 cm"],
     "Bounty": [
       {
         "value": "500,000,000",
@@ -421,12 +299,6 @@
         "Type": "Logia"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Toshiyuki Morikawa",
-        "English": "Matthew Mercer"
-      }
-    ],
     "Appearance": "Smoker is a muscular, tall man with a distinct trait of always being seen smoking two cigars at once. He has short silvery-white hair cut in a textured pompadour fade style (his hair appears pale teal in the pre-timeskip anime). He has brown eyes which sometimes appear red, such as during the Punk Hazard arc. He wears a large thick white and blue specialist marine jacket which he keeps open, with greenish fur lining the neck, wrists, and hem",
     "Personality": "Smoker is a no-nonsense Marine who values justice and upholds the law. He is known for his strong sense of duty and determination to capture pirates, especially Luffy. Despite his stern demeanor, he has a sense of honor and respects those who fight for their beliefs.",
     "Item": "Smoke Manipulation",
@@ -439,19 +311,19 @@
       }
     ],
     "Main Keywords": [
-        "Vice Admiral",
-        "Marine",
-        "Smoke Manipulation",
-        "Logia",
-        "Smoker",
-        "Moku Moku no Mi",
-        "White Hunter",
-        "Intangibility",
-        "Haki Mastery",
-        "Combat Experience"
+      "Vice Admiral",
+      "Marine",
+      "Smoke Manipulation",
+      "Logia",
+      "Smoker",
+      "Moku Moku no Mi",
+      "White Hunter",
+      "Intangibility",
+      "Haki Mastery",
+      "Combat Experience"
     ]
   },
-   "Jaguar D. Saul": {
+  "Jaguar D. Saul": {
     "name": "Jaguar D. Saul",
     "Description": "Jaguar D. Saul is a giant and former Marine Vice Admiral who defected and protected Nico Robin during the Ohara Buster Call, ultimately surviving an attack by Aokiji. Believed to be dead, he secretly relocated the Ohara scholars' books to Elbaph and became a history teacher. He later emerges as a key ally of the Straw Hat Pirates in the Elbaph Arc.",
     "Official English Name": "Jaguar D. Saul",
@@ -460,29 +332,6 @@
     "Occupations": "History Teacher Vice Admiral (former)",
     "Origin": "South Blue",
     "Residence": "Elbaph (Sun World)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "105 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "March 6th",
-    "Height": ["1950 cm"],
-    "Bounty": [
-      {
-        "value": "N/A",
-        "label": "current"
-      }
-    ],
-    "Devil Fruit": [
-      {
-        "Japanese Name": "N/A",
-        "English Name": "N/A",
-        "Meaning": "N/A",
-        "Type": "N/A"
-      }
-    ],
     "Voice Actors": [
       {
         "Japanese": "Takeshi Kusao",
@@ -491,7 +340,7 @@
     ],
     "Appearance": "Saul is a giant with a large, muscular build. He has a long, flowing beard and wears a simple outfit consisting of a white shirt and pants. He is often seen carrying a large axe.",
     "Personality": "Saul is a kind-hearted and gentle giant who values friendship and knowledge. He is known for his strong sense of justice and willingness to protect those he cares about, even at the cost of his own safety. Despite his size and strength, he is gentle and compassionate.",
-    "Item": "Giant Axe",        
+    "Item": "Giant Axe",
     "Abilities": [
       {
         "Giant Strength": "Saul possesses immense physical strength, capable of lifting and throwing large objects with ease.",
@@ -500,36 +349,25 @@
       }
     ],
     "Main Keywords": [
-        "Giant",
-        "Former Vice Admiral",
-        "Jaguar D. Saul",
-        "Walrus School",
-        "Kind-hearted",
-        "Giant Axe",
-        "Giant Strength",
-        "Combat Experience",
-        "Intimidation"
+      "Giant",
+      "Former Vice Admiral",
+      "Jaguar D. Saul",
+      "Walrus School",
+      "Kind-hearted",
+      "Giant Axe",
+      "Giant Strength",
+      "Combat Experience",
+      "Intimidation"
     ]
   },
-    "Koby": {
+  "Koby": {
     "name": "Koby",
     "Description": "Koby the Hero is a Marine Captain and member of the special forces unit SWORD, known for his rapid rise from a cabin boy to a key figure within the Marines. Trained under Garp, he gained fame after the Rocky Port Incident and was later captured by the Blackbeard Pirates before escaping. Once an early ally of Luffy, Koby has appeared as both a friend and brief adversary across several arcs, including Romance Dawn, Post-Enies Lobby, and Marineford.",
-    "Official English Name": "Koby (VIZ, Crunchyroll, Odex), Coby (Funimation, 4Kids)",
-    "Debut": "Chapter 2; Episode 1",
     "Affiliations": "Marines ( SWORD ), Marine 153rd Branch (former); Alvida Pirates (defected)",
     "Occupations": "Marine Captain; Master Chief Petty Officer (promoted), Chore Boy (promoted); Pirate Ship Caretaker (former)",
     "Origin": "East Blue ( Satsuruzo Kingdom )",
     "Residence": "Shells Town ( 153rd Branch ) (former); Goat Island (former)",
     "Epithet": "\"Hero\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "16 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "May 13th",
-    "Height": ["167 cm"],
     "Bounty": [
       {
         "value": "500,000,000",
@@ -544,32 +382,7 @@
         "Description": "N/A"
       }
     ],
-    "Haki": [
-      {
-        "Type": "Kenbunshoku Haki",
-        "Description": "Koby has shown the ability to use Kenbunshoku Haki, which allows him to sense the presence of others and their emotions."
-      },
-      {
-        "Type": "Busoshoku Haki",
-        "Description": "Koby has also demonstrated the use of Busoshoku Haki, enabling him to harden his body and enhance his attacks."
-      }
-    ],
-    "Techniques": [
-      {
-        "Name": "Soru",
-        "Description": "A technique that allows the user to move at high speed, leaving behind afterimages."
-      },
-      {
-        "Name": "Tekkai",
-        "Description": "A technique that hardens the user's body, making it resistant to physical attacks."
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Mayumi Tanaka",
-        "English": "Bella Hudson"
-      }
-    ],
+
     "Appearance": "Koby has grown thinner and taller, standing close to Luffy in height. He has also gained a cross-shaped scar above his right eye, presumably earned under Garp's heavy-handed tutelage. His hair has grown longer and shaggier since his growth spurt, but it has retained its kobi pink color.",
     "Personality": "Koby is a determined and hardworking individual who aspires to become a Marine hero. He is kind-hearted, compassionate, and values justice. Despite his initial timid nature, he has grown more confident and assertive over time, especially under Garp's training.",
     "Item": "Marine Uniform",
@@ -581,38 +394,26 @@
       }
     ],
     "Main Keywords": [
-        "Marine",
-        "Koby",
-        "Hero",
-        "SWORD",
-        "Haki Mastery",
-        "Combat Training",
-        "Leadership",
-        "Kenbunshoku Haki",
-        "Busoshoku Haki",
-        "Soru",
-        "Tekkai"
+      "Marine",
+      "Koby",
+      "Hero",
+      "SWORD",
+      "Haki Mastery",
+      "Combat Training",
+      "Leadership",
+      "Kenbunshoku Haki",
+      "Busoshoku Haki",
+      "Soru",
+      "Tekkai"
     ]
-    
   },
-    "Tashigi": {
+  "Tashigi": {
     "name": "Tashigi",
     "Description": "Captain Tashigi is a Marine officer and the captain of G-5's Unit 01, serving directly under Vice Admiral Smoker. First introduced in Loguetown, she steadily rose through the ranks and is known for her strong sense of justice. Though initially an antagonist, she later cooperates with the Straw Hats during the Arabasta and Punk Hazard arcs.",
-    "Official English Name": "Tashigi",
-    "Debut": "Chapter 96; Episode 48",
     "Affiliations": "Marines; G-5 Unit 01; Loguetown Marine Base (former)",
     "Occupations": "Captain; Ensign (former); Master Chief Petty Officer (former)",
     "Origin": "East Blue",
     "Residence": "G-5; Loguetown (former)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "21 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "October 6th",
-    "Height": ["170 cm"],
     "Bounty": [
       {
         "value": "100,000,000",
@@ -627,12 +428,6 @@
         "Type": "N/A"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Mayumi Tanaka",
-        "English": "Bella Hudson"
-      }
-    ],
     "Appearance": "Tashigi has dark brown eyes and wears her black hair between chin- and shoulder-length. She looks remarkably similar to the late Kuina, Zoro's childhood friend. She wears rectangular glasses with red frames.",
     "Personality": "Tashigi is a determined and principled Marine officer who values justice and the law. She is known for her strong sense of duty and her desire to protect the innocent. Despite her serious demeanor, she has a compassionate side and often shows concern for others.",
     "Item": "Marine Uniform",
@@ -644,47 +439,30 @@
       }
     ],
     "Main Keywords": [
-        "Marine",
-        "Tashigi",
-        "Captain",
-        "G-5",
-        "Swordsmanship",
-        "Haki Mastery",
-        "Combat Training",
-        "Observation Haki"
+      "Marine",
+      "Tashigi",
+      "Captain",
+      "G-5",
+      "Swordsmanship",
+      "Haki Mastery",
+      "Combat Training",
+      "Observation Haki"
     ]
   },
-   "Donquixote Rosinante": {
-    "name":"Corazon",
+  "Donquixote Rosinante": {
+    "name": "Corazon",
     "Description": "Donquixote Rosinante, also known as Corazon, was a former Celestial Dragon and Marine Commander who went undercover within the Donquixote Pirates. Despite posing as a loyal officer to his brother Doflamingo, he worked secretly to protect Trafalgar Law, ultimately sacrificing his life to save him. His tragic death became a key motivator for Law’s quest for revenge.",
-    "Official English Name": "Don Quixote Rocinante (Viz); Donquixote Rosinante (Funimation subs); Don Quixote Rosinante (Funimation dub)",
-    "Debut": "Chapter 761; Episode 686",
+
     "Affiliations": "Marines; Donquixote Pirates (undercover); World Government (former)",
     "Occupations": "Marine Commander; Pirate Elite Officer (undercover); World Noble (former)",
     "Origin": "Red Line (Mary Geoise)",
     "Residence": "Mary Geoise (former) Spider Miles (former)",
-    "Status": "Deceased",
-    "Age at Death": "26",
-    "Birthday": "July 15th",
-    "Height": ["293 com"],
-    "Bounty": [
-      {
-        "value": "N/A",
-        "label": "current"
-      }
-    ],
     "Devil Fruit": [
       {
         "Japanese Name": "Nagi Nagi no Mi",
         "English Name": "Calm-Calm Fruit",
         "Meaning": "Calm",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroshi Shimozaki",
-        "English": "Hayden Daviau "
       }
     ],
     "Appearance": "Rosinante was a tall man (standing just below his brother at 293 cm); in adulthood, he was a comparable height to his older brother Doflamingo (who stands 305 cm). He had short shaggy golden-blonde hair, pale skin (tanner in the manga, much like his brother), and sharp, reddish-brown eyes. He wore a dark red hood from which two heart-like shapes hang, a pair of beige jeans (white in the anime), a very dark-purple feather mantle much like his brother, and a white shirt with pink hearts printed all over it. ",
@@ -695,63 +473,37 @@
         "Calm-Calm Fruit": "Rosinante's Devil Fruit allowed him to nullify all sound in his vicinity, rendering him effectively mute and invisible to others.",
         "Swordsmanship": "He was a skilled swordsman, capable of using his sword with great proficiency.",
         "Haki Mastery": "Rosinante possessed advanced Observation Haki, allowing him to sense the presence and emotions of others.",
-        "Combat Experience": "He had extensive combat experience as a Marine officer and was skilled in hand-to-hand combat."       
-  }
-],
+        "Combat Experience": "He had extensive combat experience as a Marine officer and was skilled in hand-to-hand combat."
+      }
+    ],
     "Main Keywords": [
-        "Donquixote Rosinante",
-        "Corazon",
-        "Marine Commander",
-        "Calm-Calm Fruit",
-        "Paramecia",
-        "Kind-hearted",
-        "Selfless",
-        "Swordsmanship",
-        "Haki Mastery",
-        "Combat Experience"
+      "Donquixote Rosinante",
+      "Corazon",
+      "Marine Commander",
+      "Calm-Calm Fruit",
+      "Paramecia",
+      "Kind-hearted",
+      "Selfless",
+      "Swordsmanship",
+      "Haki Mastery",
+      "Combat Experience"
     ]
-},
- "X Drake": {
-    "name":"Dory",
+  },
+  "X Drake": {
+    "name": "Dory",
     "Description": "Red Flag X Drake is the captain of the Marine secret unit SWORD and a former rear admiral who went undercover as a pirate by founding the Drake Pirates. A member of the Worst Generation, he infiltrated the Beasts Pirates as one of the Tobiroppo before ultimately revealing his true allegiance and joining the alliance against Kaidou.",
-    "Official English Name": "X. Drake",
     "Debut": "Chapter 498; Episode 392",
     "Affiliations": "Marines ( SWORD ); Drake Pirates; Beasts Pirates ( Tobiroppo , former); Barrels Pirates (defected); Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
     "Occupations": "Captain of SWORD; Pirate (undercover); Captain (undercover); Shinuchi (undercover, former); Marine Rear Admiral (former)",
     "Origin": "North Blue",
     "Epithet": "\"Red Flag\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "31 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "October 24th",
-    "Height": [
-      {
-        "value": "233 cm (7'8\")",
-        "context": "debut, after timeskip"
-      }
-    ],
-    "Bounty": [
-      {
-        "value": "222,000,000",
-        "label": "current"
-      }
-    ],
+
     "Devil Fruit": [
-        {
-            "Japanese Name": "Ryu Ryu no Mi, Model: Allosaurus",
-            "English Name": "Dragon-Dragon Fruit, Model: Allosaurus",
-            "Meaning": "Allosaurus",
-            "Type": "Zoan"
-        }
-        ],
-    "Voice Actors": [
-      { 
-        "Japanese": "Kazuya Nakai",
-        "English": "Bryce Papenbrook"
+      {
+        "Japanese Name": "Ryu Ryu no Mi, Model: Allosaurus",
+        "English Name": "Dragon-Dragon Fruit, Model: Allosaurus",
+        "Meaning": "Allosaurus",
+        "Type": "Zoan"
       }
     ],
     "Appearance": "Drake is a tall, lean, and muscular man who wears what appears to be a combination of a white-plumed cocked hat with his crew's Jolly Roger on the side and a domino mask over his eyes. Underneath this headgear, Drake's hair is reddish brown, with brush-like sideburns. On his broad chin he has an x shaped scar, and on his chest and upper body he also has another large X.",
@@ -766,16 +518,16 @@
       }
     ],
     "Main Keywords": [
-        "X Drake",
-        "Red Flag",
-        "Marine",
-        "Dragon-Dragon Fruit, Model: Allosaurus",
-        "Zoan",
-        "SWORD",
-        "Captain",
-        "Swordsmanship",
-        "Haki Mastery",
-        "Combat Experience"
+      "X Drake",
+      "Red Flag",
+      "Marine",
+      "Dragon-Dragon Fruit, Model: Allosaurus",
+      "Zoan",
+      "SWORD",
+      "Captain",
+      "Swordsmanship",
+      "Haki Mastery",
+      "Combat Experience"
     ]
   }
 }

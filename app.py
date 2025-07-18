@@ -1,16 +1,13 @@
 import streamlit as st
 from langchain_core.messages import HumanMessage, AIMessage
-from langchain.agents import create_tool_calling_agent, AgentExecutor
+from langchain.agents import create_tool_calling_agent, AgentExecutor,  create_react_agent
 from langchain.prompts import ChatPromptTemplate
 from langchain_community.vectorstores.faiss import FAISS
-from langchain_community.embeddings import OllamaEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain_community.chat_models import ChatOllama
-from langchain_core.tools import tool
 from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-import os, json, asyncio
-from tools import create_summarize_character_tool, create_generate_question_tool, create_a_guess_heatmap, create_emotional_bot_tool
+import os, json, asyncio, re
+from tools import create_summarize_character_tool, create_generate_question_tool, create_trivia_mode
 from prompts import SYSTEM_PROMPT, USER
 
 # Constants
@@ -67,44 +64,25 @@ st.markdown("---")
 # --- Sidebar --- #
 with st.sidebar:
     st.image("one-peice.jpg", caption="One Piece By Eiichiro Oda")
-    st.markdown("---")
-    st.subheader("Choose your LLM")
-    selected_model = st.selectbox("Select a language model", ["Gemini", "Ollama"])  #Selecting which model to use
-    st.markdown(f"✅ **Model selected:** {selected_model}")
-
-    st.markdown("---")
     st.subheader("This LLM has multiple Agent Tools")
     st.markdown("1. Guesser Tool")
     st.markdown("2. Summarizer Tool")
     st.markdown("3. Question Asking Tool")
-   
-    # selected_team = st.selectbox("Which crew do you want to play with?", [
-    #     "Straw Hat Pirates",
-    #     "Marines",
-    #     "Emperors",
-    #     "General"
-    # ]) #Selecting which team to play for
-    # st.markdown(f"🏴‍☠️ **Playing as:** {selected_team}")
 
 # Load LLM + Embeddings
-async def load_llm_and_embeddings(model_choice):
-    if model_choice == "Gemini":
-        llm = ChatGoogleGenerativeAI(model=GEMINI_LLM_MODEL, temperature=0.2)
-        embeddings = GoogleGenerativeAIEmbeddings(model=GEMINI_EMBEDDING_MODEL_NAME, task_type="RETRIEVAL_DOCUMENT")
-    else:
-        llm = ChatOllama(model=OLLAMA_LLM_MODEL, temperature=0.2)
-        embeddings = OllamaEmbeddings(model=OLLAMA_EMBEDDING_MODEL)
+async def load_llm_and_embeddings():
+    llm =   ChatGoogleGenerativeAI(model=GEMINI_LLM_MODEL, temperature=0.1)
+    embeddings = GoogleGenerativeAIEmbeddings(model=GEMINI_EMBEDDING_MODEL_NAME)
     return llm, embeddings
 
 # Load JSON data
 
 @st.cache_resource
 def load_combined_vectorstore(_embeddings):
-    file_map = {
-        "Straw Hat Pirates": "data/straw_hat_pirates.json",
-        "Marines": "data/marines.json",
-        "seven_warlords":"data/seven_warlords.json",
-    }   
+    file_map = [
+     "data/straw_hat_pirates.json",
+     "data/marines.json",
+    ]
 
     index_folder = "faiss_index/all_teams"
 
@@ -114,20 +92,58 @@ def load_combined_vectorstore(_embeddings):
 
     # Load all documents from all JSON files
     all_docs = []
-    for team, path in file_map.items():
+    for path in file_map:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
             for key, value in data.items():
-                text = f"Name: {key}\nTeam: {team}\n" + "\n".join(f"{k}: {v}" for k, v in value.items())
-                all_docs.append(Document(page_content=text, metadata={"team": team, "character": key}))
+                text = f"Name: {key}" + "\n".join(f"{k}: {v}" for k, v in value.items())
+                all_docs.append(Document(page_content=text, metadata={"character": key}))
+
+                print("All Docs:", all_docs)
 
     # Split into chunks and index
     splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
     chunks = splitter.split_documents(all_docs)
     vector_store = FAISS.from_documents(chunks, _embeddings)
-
     vector_store.save_local(index_folder)
     return vector_store
+
+
+def extract_core_topic(question: str) -> str:
+    # Common starter phrases to strip
+    starter_patterns = [
+        r"(has|have|is|was|did|does|do|can|could|would)\s+(your\s+)?character\s+(ever\s+)?",
+        r"does\s+the\s+character\s+",
+        r"is\s+your\s+character\s+"
+    ]
+
+    question_clean = question.strip().lower()
+
+    # Strip leading patterns
+    for pattern in starter_patterns:
+        question_clean = re.sub(pattern, "", question_clean, flags=re.IGNORECASE)
+
+    # Remove trailing punctuation
+    question_clean = re.sub(r"[?.!]+$", "", question_clean)
+
+    return question_clean.strip().capitalize()
+
+def extract_simplified_qna(messages):
+    pairs = []
+    current_question = None
+
+    for msg in messages:
+        if isinstance(msg, AIMessage):
+            current_question = msg.content.strip()
+        elif isinstance(msg, HumanMessage) and current_question:
+            simplified = extract_core_topic(current_question)
+            pairs.append({
+                "trait": simplified,
+                "answer": msg.content.strip()
+            })
+            current_question = None
+
+    return pairs
 
 
 prompt = ChatPromptTemplate.from_messages([("system", SYSTEM_PROMPT),  ("human", USER), ("placeholder", "{agent_scratchpad}"),])
@@ -143,7 +159,7 @@ user_input = st.chat_input("Think of a One Piece character and I will try to gue
 # Process input
 if user_input:
     st.session_state.messages.append(HumanMessage(content=user_input))
-    llm, embeddings = asyncio.run(load_llm_and_embeddings(selected_model))
+    llm, embeddings = asyncio.run(load_llm_and_embeddings())
     st.session_state.llm = llm  # for use in tools
     st.session_state.embeddings = embeddings
     
@@ -156,19 +172,23 @@ if user_input:
 
     history  = "\n".join(msg.content for msg in st.session_state.messages)
 
-    combined_input = f"{history}####{context}"
+    combined_input = f"{history}###{context}"
 
     # Show past chat
     for msg in st.session_state.messages:
         with st.chat_message("user" if isinstance(msg, HumanMessage) else "assistant"):
             st.markdown(msg.content)
 
+
     tools = [
         create_generate_question_tool(llm),
         create_summarize_character_tool(llm),
+        create_trivia_mode(llm, context)
     ]
-
+    
+    
     agent = create_tool_calling_agent(llm, tools, prompt)
+   
     agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
     with st.spinner("Summoning the crew's knowledge..."):

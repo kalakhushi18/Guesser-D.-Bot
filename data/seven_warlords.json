@@ -23,14 +23,13 @@
       }
     ],
     "Abilities": [
-  {
+      {
         "Swordsmanship": "Mihawk is known as the 'Strongest Swordsman in the World' and possesses unparalleled swordsmanship skills, able to cut through almost anything with ease.",
-     
+
         "Observation Haki": "Mihawk has shown advanced mastery of Observation Haki, allowing him to sense the presence and intentions of others even from a distance.",
-  
+
         "Busoshoku Haki": "He can use Busoshoku Haki to enhance his attacks and defend against other powerful attacks."
-  }
-      
+      }
     ],
 
     "Main Keywords": [
@@ -50,41 +49,18 @@
   "Bartholomew Kuma": {
     "name": "Bartholomew Kuma",
     "Description": "Bartholomew Kuma is a former Warlord of the Sea, ex-king of the Sorbet Kingdom, and a founding officer of the Revolutionary Army with a bounty of 296 million. A feared pirate known as the Tyrant, Kuma was actually an ally to the Straw Hats. He became a cyborg Pacifista in exchange for curing his adoptive daughter Jewelry Bonney's illness, losing his free will in the process. A member of the rare Buccaneer race, Kuma was enslaved twice by the World Nobles but was freed by the Revolutionaries. Though perceived as an antagonist in several arcs, he secretly protected the Straw Hats and played a pivotal role in enabling their growth during the timeskip. He later becomes a major ally again during the Egghead Arc",
-    "Official English Name": "Bartholomew Kuma",
-    "Debut": "Chapter 233; Episode 151",
     "Affiliations": "Freedom Fighters (former); Pacifista; Revolutionary Army; Seven Warlords of the Sea (former); Sorbet Kingdom (former)",
     "Occupations": "Army Commander of the Revolutionary Army; Slave (former); Warlord of the Sea (former); King of Sorbet Kingdom (former); Pastor (former)",
     "Origin": "South Blue ( Sorbet Kingdom )",
     "Residence": "Sorbet Kingdom (former); Baltigo (former); Egghead (former, temporary); Mary Geoise (former); Sabaody Archipelago (former, temporary)",
-    "Alias": ["PX-0", "\"Kumachi\""],
     "Epithet": "\"Tyrant\" \"Pacifist\" \"Hero\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "45 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "February 9th",
-    "Height": ["689 cm"],
-    "Bounty": [
-      {
-        "value": "296,000,000",
-        "label": "current"
-      }
-    ],
+
     "Devil Fruit": [
       {
         "Japanese Name": "Nikyu Nikyu no Mi",
         "English Name": "Ursus Shock",
         "Meaning": "Paw-Paw Fruit",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Kazuya Nakai",
-        "English": "Christopher Sabat"
       }
     ],
     "Appearance": "Kuma is a large, imposing figure with a bear-like appearance. He has a muscular build, covered in dark fur, and wears a long coat with a cross symbol on the back. His eyes are small and beady, and he has a distinctive scar across his face.",
@@ -120,49 +96,17 @@
   "Boa Hancock": {
     "name": "Boa Hancock",
     "Description": "Boa Hancock, known as the Pirate Empress, is the captain of the Kuja Pirates and ruler of Amazon Lily. She was the only female Warlord of the Sea before the group’s disbandment. Formerly enslaved by the Celestial Dragons, she gained the powers of the Mero Mero no Mi. After escaping with her sisters, she rose to power on her island. Though initially hostile toward Luffy, she later fell in love with him and became a key ally—helping him during the Impel Down infiltration, Marineford War, his two-year training, and eventual reunion with his crew.",
-    "Official English Name": "Boa Hancock",
-    "Debut": "Chapter 516; Episode 409",
     "Affiliations": "Kuja ( Kuja Pirates ); Seven Warlords of the Sea (former)",
     "Occupations": "Pirate Captain; Empress of Amazon Lily; Warlord of the Sea (former); Slave (former)",
     "Origin": "Calm Belt (Amazon Lily)",
     "Residence": "Amazon Lily Mary Geoise (former)",
     "Epithet": "\"Snake Princess\"; \"Pirate Empress\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "29 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "September 2nd",
-    "Height": [
-      {
-        "value": "191 cm (6'3\")",
-        "context": "debut, after timeskip"
-      }
-    ],
-    "Bounty": [
-      {
-        "value": "1,659,000,000",
-        "label": "current"
-      },
-      {
-        "value": "80,000,000",
-        "label": "previous"
-      }
-    ],
     "Devil Fruit": [
       {
         "Japanese Name": "Mero Mero no Mi",
         "English Name": "Love-Love Fruit",
         "Meaning": "Mero Mero no Mi",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Masako Katsuki",
-        "English": "Leslie Swan"
       }
     ],
     "Appearance": "Hancock is considered the most beautiful person in the world. She has a more conventionally-proportioned figure compared to her abnormal and huge sisters. She is very tall and slender with long black hair that extends past her waist with locks of hair that frame her face down to her chin and shows off her high forehead, dark brown (dark blue in the anime) eyes with long, voluminous eyelashes and pale skin. She has a narrow waist and very large breasts, and a pair of large golden serpent earrings.",
@@ -197,43 +141,15 @@
   "Buggy": {
     "name": "Buggy the Star Clown",
     "Description": "Buggy the Star Clown is the captain of the Buggy Pirates and a former apprentice of the Roger Pirates alongside Shanks. Initially an early enemy of Luffy, his involvement in the Marineford War unintentionally boosted his reputation, leading to his appointment as a Warlord and the creation of Buggy's Delivery. After the system's dissolution, he co-founded the Cross Guild with Mihawk and Crocodile, becoming one of the Four Emperors. Though often comic relief, Buggy has become a major recurring character across multiple arcs and factions.",
-    "Official English Name": "Buggy",
-    "Debut": "Chapter 9; Episode 4",
     "Affiliations": "Cross Guild; Buggy's Delivery; Buggy Pirates; Buggy and Alvida Alliance; Four Emperors; Seven Warlords of the Sea (former); Roger Pirates (former); Impel Down (former)",
     "Occupations": "Pirate Captain; Emperor; Figurehead President of Cross Guild; Chairman of Buggy's Delivery (former); Warlord of the Sea (former); Apprentice (former); Prisoner of the Great Prison (former)",
     "Origin": "Grand Line",
     "Residence": "Karai Bari Island; Orange Town (former)",
     "Epithet": "\"Buggy the Clown\" \"Buggy the Star Clown\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "37 (debut)",
-        "context": ""
-      },
-      {
-        "value": "39 (after",
-        "context": "timeskip"
-      }
-    ],
-    "Birthday": "August 8th",
-    "Height": [
-      {
-        "value": "192 cm (6'4\")",
-        "context": "age 39"
-      },
-      {
-        "value": "130 cm (4'3\")",
-        "context": "age 13"
-      }
-    ],
     "Bounty": [
       {
         "value": "3,189,000,000",
         "label": "current"
-      },
-      {
-        "value": "15,000,000",
-        "label": "previous"
       }
     ],
     "Devil Fruit": [
@@ -242,12 +158,6 @@
         "English Name": "Chop-Chop Fruit",
         "Meaning": "Bara Bara no Mi",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroshi Iwasaki",
-        "English": "Eric Vale"
       }
     ],
     "Appearance": "Buggy is a tall man with an appearance resembling that of a clown, as to mirror his epithet. He has long blue hair, gray eyes (light blue in the manga) The big, red nose on his face is, in fact, his real nose. The blue tassels coming from the sides of his hat are his actual hair in the shape of two ponytails",
@@ -261,17 +171,12 @@
     ],
     "Abilities": [
       {
-        "name": "Bara Bara no Mi",
-        "description": "Buggy's Devil Fruit ability allows him to separate his body into pieces and control them independently, making him immune to most physical attacks. He can also use it to create powerful shockwaves by clapping his hands together."
-      },
-      {
-        "name": "Haki",
-        "description": "Buggy has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
+        "Bara Bara no Mi": "Buggy's Devil Fruit ability allows him to separate his body into pieces and control them independently, making him immune to most physical attacks. He can also use it to create powerful shockwaves by clapping his hands together.",
+        "Haki": "Buggy has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
       }
     ],
     "Main Keywords": [
       "Buggy the Clown",
-      "Buggy the Star Clown",
       "Buggy Pirates",
       "Cross Guild",
       "Paramecia",
@@ -282,35 +187,15 @@
   "Crocodile": {
     "name": "Crocodile",
     "Description": "Sir Crocodile, also known as Desert King, is a former Warlord and leader of the Baroque Works crime syndicate, where he secretly plotted to take over Arabasta. After being defeated by the Straw Hats, he was stripped of his title and imprisoned in Impel Down. Freed by Luffy during the Impel Down breakout, he fought in the Summit War and later escaped with Daz Bonez. Crocodile is now a co-founder of the Cross Guild alongside Mihawk, operating under the public leadership of Buggy. He has also been cloned as a Seraphim by Vegapunk.",
-    "Official English Name": "Crocodile",
-    "Debut": "Chapter 126; Episode 76",
     "Affiliations": "Cross Guild; Seven Warlords of the Sea (former); Baroque Works (former); Impel Down (former)",
     "Occupations": "Pirate; Cross Guild Chief Officer; Baroque Works President (former); Proprietor of Rain Dinners (former); Prisoner of the Great Prison (former)",
     "Origin": "Grand Line",
     "Residence": "Rainbase , Arabasta (former)",
     "Epithet": "\"Sir Crocodile\" \"Desert King\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "44 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "September 5th",
-    "Height": [
-      {
-        "value": "253 cm (8'4\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "1,965,000,000",
         "label": "current"
-      },
-      {
-        "value": "81,000,000",
-        "label": "previous"
       }
     ],
     "Devil Fruit": [
@@ -319,12 +204,6 @@
         "English Name": "Sand-Sand Fruit",
         "Meaning": "Suna Suna no Mi",
         "Type": "Logia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroaki Hirata",
-        "English": "John Swasey"
       }
     ],
     "Appearance": "Crocodile is a tall man with a wide chest, broad shoulders, and a thick neck. He has pale skin and nape-length black hair, which is kept neatly slicked back, though strands tend to fall in front of his face during battles. Crocodile has various battle wounds, most notably a long-stitched scar at the bridge of his nose that stretches across his face and a large hook made from a tough gold alloy in place of his left hand. His black eyes (orange in the manga) are deep-set and heavy-lidded his eyes can be seems as white within black pupils in the anime",
@@ -338,17 +217,11 @@
     ],
     "Abilities": [
       {
-        "name": "Suna Suna no Mi",
-        "description": "Crocodile's Devil Fruit ability allows him to create, control, and transform into sand. He can also absorb moisture from the environment, making him a formidable opponent in desert environments."
-      },
-      {
-        "name": "Haki",
-        "description": "Crocodile has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
+        "Haki": "Crocodile has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
       }
     ],
     "Main Keywords": [
       "Crocodile",
-      "Sir Crocodile",
       "Desert King",
       "Baroque Works",
       "Cross Guild",
@@ -360,26 +233,10 @@
   "Gecko Moria": {
     "name": "Gecko Moria",
     "Description": "Gecko Moria is the captain of the Thriller Bark Pirates and a former Warlord of the Sea with a frozen bounty of 320,000,000. After losing his crew in a battle with Kaidou, he turned to creating a zombie army using the Kage Kage no Mi, clashing with the Straw Hats at Thriller Bark. Though defeated, he retained his Warlord status and fought in the Summit War, later being stripped of his title and targeted for elimination by Doflamingo. Moria escaped to the New World, was cloned as a Seraphim by Vegapunk, and later imprisoned by Blackbeard after refusing to join him. He was eventually rescued by Perona with Koby’s help.",
-    "Official English Name": "Gecko Moria",
-    "Debut": "Chapter 449; Episode 343",
     "Affiliations": "Thriller Bark Pirates ( Mysterious Four ); Seven Warlords of the Sea (former); Gecko Pirates (former)",
     "Occupations": "Pirate Captain; Warlord of the Sea (former)",
     "Origin": "West Blue",
     "Residence": "Florian Triangle (former); Thriller Bark",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "48 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "September 6th",
-    "Height": [
-      {
-        "value": "692 cm (22'8\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "320,000,000",
@@ -392,12 +249,6 @@
         "English Name": "Shadow-Shadow Fruit",
         "Meaning": "Kage Kage no Mi",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroshi Naka",
-        "English": "Mike McFarland"
       }
     ],
     "Appearance": "Moria is an abnormally large humanoid creature with very distinct, devil-like features.[16] Standing at 692 cm (22'8½) in height, he was the tallest among the Seven Warlords of the Sea.He has two horns protruding from the sides of his forehead and stitches running vertically from the top of his face and down his neck, which is rather long and thick in comparison to his body. His ears and teeth are both pointed, while his lower body is relatively fat and stubby in comparison.Moria's hair is extremely short and spiky it's a dark red color (reddish-purple in the anime), and his skin is a pale blue, matching his lips, armbands and the edges of his gloves. His coat and gloves are black, while his pants are bright orange with pale window shapes imprinted on them. ",
@@ -432,47 +283,15 @@
   "Trafalgar D. Water Law": {
     "name": "Trafalgar D. Water Law",
     "Description": "Trafalgar D. Water Law, known as the Surgeon of Death, is the captain and doctor of the Heart Pirates and a member of the Worst Generation. A survivor of Flevance’s Amber Lead Syndrome tragedy, Law escaped as a child and later joined, then broke away from, the Donquixote Pirates with help from Rosinante. He became a Warlord during the timeskip but lost the title after allying with the Straw Hats to defeat Doflamingo. Law seeks the One Piece and the truth behind the Will of D. His bounty rose from 200 million to 3 billion berries after helping defeat Big Mom in the Wano Arc.",
-    "Official English Name": "Trafalgar D. Water Law",
-    "Debut": "Chapter 498; Episode 392",
     "Affiliations": "Heart Pirates; Clan of D.; Ninja-Pirate-Mink-Samurai Alliance (disbanded); Seven Warlords of the Sea (revoked); Donquixote Pirates (defected)",
     "Occupations": "Pirate Captain; Doctor; Warlord of the Sea (former)",
     "Origin": "North Blue",
     "Residence": "Flevance (former); Spider Miles (former); Swallow Island (former)",
     "Epithet": "\"Surgeon of Death\"",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "24 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "October 6th",
-    "Height": [
-      {
-        "value": "191 cm (6'3\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "3,000,000,000",
         "label": "current"
-      },
-      {
-        "value": "500,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "440,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "200,000,000",
-        "label": "previous"
-      },
-      {
-        "value": "80,000,000",
-        "label": "previous"
       }
     ],
     "Devil Fruit": [
@@ -481,12 +300,6 @@
         "English Name": "Op-Op Fruit",
         "Meaning": "Ope Ope no Mi",
         "Type": "Paramecia"
-      }
-    ],
-    "Voice Actors": [
-      {
-        "Japanese": "Kazuki Yao",
-        "English": "Christopher Sabat"
       }
     ],
     "Appearance": "Law is a slim young man with tan skin and a very tall stature. He has faint shadows right under his yellow eyes (grey in the anime), and his face is usually seen with a smirk. He wears a northern-style fur hat, which is white and has a spotted pattern along the bottom and the bill. He has very short dark hair, a majority of which is obscured by his hat, save for his sideburns and a small goatee.[1] His hair color is depicted as black in both the anime and manga, though sometimes the manga depicts it as blue mistakenly.",
@@ -521,39 +334,15 @@
   "Marshall D. Teach": {
     "name": "Marshall D. Teach",
     "Description": "Marshall D. Teach, known as Blackbeard, is the admiral of the Blackbeard Pirates and one of the Four Emperors. Secretly the son of Rocks D. Xebec, he is the only known person to wield two Devil Fruits: the Yami Yami no Mi (darkness) and Gura Gura no Mi (quake). Formerly a member of the Whitebeard Pirates, he betrayed them by killing Thatch for the Yami Yami no Mi and capturing Ace, earning Warlord status. He used this to infiltrate Impel Down and strengthen his crew with powerful inmates. At Marineford, he killed Whitebeard and stole his powers, securing his rise as an Emperor. Now based at Hachinosu, Teach aims to have it recognized as the Blackbeard Kingdom and is considered part of the Worst Generation.",
-    "Official English Name": "Marshall D. Teech (VIZ, Funimation subs, edited dub); Marshall D. Teach (Funimation uncut dub)",
-    "Debut": "Chapter 223; Episode 146",
     "Affiliations": "Blackbeard Pirates; Four Emperors; Clan of D.; Seven Warlords of the Sea (former); Whitebeard Pirates 2nd Division (defected)",
     "Occupations": "Pirate; Admiral; Emperor; Apprentice (former); Warlord of the Sea (former)",
     "Origin": "Grand Line ( Shade Port )",
     "Residence": "Hachinosu",
     "Epithet": "\"Blackbeard\" (\"Black Beard\" in the edited dub)",
-    "Status": "Alive",
-    "Age": [
-      {
-        "value": "38 (debut)",
-        "context": ""
-      }
-    ],
-    "Birthday": "August 3rd",
-    "Height": [
-      {
-        "value": "344 cm (11'3\")",
-        "context": "debut, after timeskip"
-      }
-    ],
     "Bounty": [
       {
         "value": "3,996,000,000",
         "label": "current"
-      },
-      {
-        "value": "2,247,600,000",
-        "label": "previous"
-      },
-      {
-        "value": "0",
-        "label": "previous"
       }
     ],
     "Devil Fruit": [
@@ -570,12 +359,7 @@
         "Type": "Paramecia"
       }
     ],
-    "Voice Actors": [
-      {
-        "Japanese": "Hiroshi Shimozaki",
-        "English": "Matthew Mercer"
-      }
-    ],
+
     "Appearance": "Teach is a very tall man with dark skin, being exactly twice Luffy's (pre-timeskip) height. He has a massive build as his body is round with relatively thin limbs. He has a prominent lipped mouth with several broken or missing teeth a pronounced crooked nose and a very large and hairy chest and torso. Long, thick, woolly black hair falls down the back of his neck, underneath a black bandanna. He also has a black beard that grew around his jawline",
     "Personality": "Teach is a cunning and ruthless individual who will stop at nothing to achieve his goals. He is highly ambitious and seeks to become the Pirate King by any means necessary. Despite his cruel nature, he has a charismatic personality that allows him to rally others to his cause.",
     "Item": [
@@ -587,16 +371,11 @@
     ],
     "Abilities": [
       {
-        "name": "Yami Yami no Mi",
-        "description": "Teach's first Devil Fruit ability allows him to create and control darkness, which can absorb other Devil Fruit powers and nullify their effects. He can also use it to create powerful shockwaves."
-      },
-      {
-        "name": "Gura Gura no Mi",
-        "description": "Teach's second Devil Fruit ability allows him to create shockwaves that can cause massive destruction, even capable of splitting the sea and creating tsunamis."
-      },
-      {
-        "name": "Haki",
-        "description": "Teach has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
+        "Yami Yami no Mi": "Teach's first Devil Fruit ability allows him to create and control darkness, which can absorb other Devil Fruit powers and nullify their effects. He can also use it to create powerful shockwaves.",
+
+        "Gura Gura no Mi": "Teach's second Devil Fruit ability allows him to create shockwaves that can cause massive destruction, even capable of splitting the sea and creating tsunamis.",
+
+        "Haki": "Teach has shown the ability to use Busoshoku Haki, which allows him to enhance his attacks and defend against other powerful attacks."
       }
     ],
     "Main Keywords": [
