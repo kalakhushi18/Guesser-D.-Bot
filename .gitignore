@@ -2,3 +2,4 @@
 .env
 .toml
 __pycache__
+.streamlit
