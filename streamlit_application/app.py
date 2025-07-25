@@ -7,8 +7,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os, json, asyncio, re
-from streamlit_application.tools import create_summarize_character_tool, create_generate_question_tool, create_trivia_mode
-from streamlit_application.prompts import SYSTEM_PROMPT, USER
+from tools import create_summarize_character_tool, create_generate_question_tool, create_trivia_mode
+from prompts import SYSTEM_PROMPT, USER
 
 # Constants
 CHUNK_SIZE = 1000
@@ -80,8 +80,8 @@ async def load_llm_and_embeddings():
 @st.cache_resource
 def load_combined_vectorstore(_embeddings):
     file_map = [
-     "data/straw_hat_pirates.json",
-     "data/marines.json",
+     "../data/straw_hat_pirates.json",
+     "../data/marines.json",
     ]
 
     index_folder = "faiss_index/all_teams"
