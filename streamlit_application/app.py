@@ -7,8 +7,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os, json, asyncio, re
-from tools import create_summarize_character_tool, create_generate_question_tool, create_trivia_mode
-from prompts import SYSTEM_PROMPT, USER
+from streamlit_application.tools import create_summarize_character_tool, create_generate_question_tool, create_trivia_mode
+from streamlit_application.prompts import SYSTEM_PROMPT, USER
 
 # Constants
 CHUNK_SIZE = 1000

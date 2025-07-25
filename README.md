@@ -40,7 +40,7 @@ The app is powered by Streamlit, offering a smooth web interface for live intera
 
 * Streamlit Chat Interface: Seamless UI to chat with the guessing agent.
 
-* Presentation Included: A short slide deck and demo video available in the /presentation folder.
+* Presentation Included: A short slide deck in the /presentation folder.
 
 * All the data has been scraped via bs4 from the website: https://onepiece.fandom.com/wiki
 
@@ -79,7 +79,6 @@ The app is powered by Streamlit, offering a smooth web interface for live intera
         python web_data.py
 * Run the app
         streamlit run app.py 
-* 
 * To run the streamlit application, come to the root of the project then run the cmd: streamlit run app.py
 
 
@@ -97,8 +96,6 @@ Start the app and follow the agent’s questions. Answer honestly, and let the b
 ### **6. Roadmap** 
 
  * Add support for more One Piece arcs and side characters
-
- * Integrate voice input/output
 
  * Add heatmap of guessing confidence
 
